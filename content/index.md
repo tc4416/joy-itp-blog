@@ -1,7 +1,3 @@
 ---
-title:
-tags:
-date: 14 january 2026
+title: ( ੭ ˙ᗜ˙ )੭
 ---
-Joy's ITP BLog
-

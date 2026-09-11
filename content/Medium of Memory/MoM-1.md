@@ -1,17 +1,10 @@
 ---
-title: Class 1
-draft: false
-tags:
-  - class-note
-  - Assignment-log
-  - trauma
-  - LOL
+title: MoM-1
 ---
 [class syllabus](https://docs.google.com/document/d/14BVVfsKsTisTFcfrEpHn8T8tRGU5cmW8KPRrLRNRj8k/edit?tab=t.0#heading=h.4xy4fzf5tfi9)
 ### Reading 
 [The Great Forgetting by Kristin Ohslon](https://aeon.co/essays/where-do-children-s-earliest-memories-go)
-<br>
-**Reflection**: <br>
+#### Reflection:
 I have always considered myself a person with a terrible memory. Oftentimes, when I try to retrieve information from my brain, I find those moments scattered and broken in my mind. I’m never sure if what I remember is true or just a dream, or if having such segmented memories is normal. Learning about how memories are formed, and the fact that some information simply never makes it into memory iis somewhat comforting to me.
 
 One thing that stood out to me from both the reading and the podcast is how the hippocampus bundles our senses together to form memories, and how we are more likely to remember something when it is emotional. As I tried to recall my early childhood memories, I found that the ones I could recall were often moments when I was emotional, which agrees with what Kristin said.
