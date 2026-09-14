@@ -23,6 +23,31 @@ A router on an IP network is a device which defines the network and the range of
 
 Routers use **Address Resolution Protocol (ARP)** to associate a device’s MAC address (from the datalink layer) with an available IP address. When a new device connects to a network, it announces its MAC address and requests an IP address.
 
+----
+### Setting up a host
+Followed the [guide](https://itp.nyu.edu/networks/setting-up-a-virtual-host/) and everything went smoothly. I ran into this when i ran 
+`sudo apt upgrade` I chose the highlight option because I think that was the default setting and perhaps the right things to do?
+
+<div align="center">
+<img src="/media/sudo-update.png" width="400">
+</div>
+Then set up the firewall by following [this guide](https://itp.nyu.edu/networks/setting-up-a-firewall-on-an-embedded-linux-device/)
+
+<div align="center">
+<img src="/media/firewall.png" width="400">
+</div>
+
+**IPTABLE Firewall**
+not sure changing device ip how + my router ip
+
+<div align="center">
+<img src="/media/firewall_IP.png" width="400">
+</div>
+I took out `-A INPUT -s _192.168.0.1_/32 -i tcp -p tcp -m tcp --dport 22 -j DROP` because I'm not sure I understand it. *"This prevents ssh logins from outside your local network. Change the IP address to the address of your router.  If you’re operating in an institution with multiple networks like ITP, this rule might prevent you from logging into your device, if your computer and your device are on different local networks. If so, delete it."*
+![[Pasted image 20260913165940.png]]
+
+
+<div
 
 ### What is the internet?
 - Autonomous System
