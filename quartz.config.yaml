@@ -154,7 +154,7 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: "@quartz-community/favicon"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/og-image"
     enabled: true
   - source: "@quartz-community/cname"
