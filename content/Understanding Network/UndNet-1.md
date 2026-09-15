@@ -44,7 +44,44 @@ not sure changing device ip how + my router ip
 <img src="/media/firewall_IP.png" width="400">
 </div>
 I took out `-A INPUT -s _192.168.0.1_/32 -i tcp -p tcp -m tcp --dport 22 -j DROP` because I'm not sure I understand it. *"This prevents ssh logins from outside your local network. Change the IP address to the address of your router.  If you’re operating in an institution with multiple networks like ITP, this rule might prevent you from logging into your device, if your computer and your device are on different local networks. If so, delete it."*
-![[Pasted image 20260913165940.png]]
+
+<div align="center">
+<img src="/media/invalidIP.png" width="400">
+</div>
+
+I missed the line in the tutorial that said install both ufw and iptables can be troublesome, so I installedn them and was blocked out of my server. After some trouble shooting and recreate a droplet  and only install ufw, I was able to get it working.
+
+#### firewall log
+
+<div align="center">
+<img src="/media/firewall-log1.png" width="400">
+<img src="/media/firewall-log2.png" width="400">
+</div>
+
+
+^ searching specific ip address
+important command:
+
+```
+sudo ls /var/log //check file
+sudo wc -l /var/log/ufw.log
+sudo tail -3 /var/log/ufw.log
+sudo cat /var/log/ufw.log
+sudo cat /var/log/ufw.log | grep '64.62.197.125'
+sudo cat /var/log/ufw.log | grep '64.62.197.125' | wc -l
+sudo tail -10 /var/log/ufw.log | sed -e 's/\s/\t/g'
+```
+
+
+- How many different attempts were there to connect to your server?
+- How different IP addresses attempted to connect to your server?
+- How many times did each IP address attempt to connect?
+- Where are they located? You can look them up on [ipinfo.io](https://ipinfo.io/) and other geoIP services.
+- What organizations are they associated with, at all (whois and nslookup can help determine this)?
+- What service providers are providing their IP addresses?
+- Are there specific times of day that are most common for activity?
+- Are there IP addresses which return at regular times?
+
 
 
 <div
