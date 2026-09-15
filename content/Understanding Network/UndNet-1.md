@@ -70,18 +70,28 @@ sudo cat /var/log/ufw.log
 sudo cat /var/log/ufw.log | grep '64.62.197.125'
 sudo cat /var/log/ufw.log | grep '64.62.197.125' | wc -l
 sudo tail -10 /var/log/ufw.log | sed -e 's/\s/\t/g'
+
+sudo grep -o 'SRC=[0-9.]*' /var/log/ufw.log | sort -u | wc -l
 ```
-I figured out my s
+I didn't figured out my server setup until Monday so only get to run it for a little bit before I do this analysis. Even though it is not run over 24 hour, there is still a lot of data. 
 
-- How many different attempts were there to connect to your server?
-- How different IP addresses attempted to connect to your server?
-- How many times did each IP address attempt to connect?
-- Where are they located? You can look them up on [ipinfo.io](https://ipinfo.io/) and other geoIP services.
-- What organizations are they associated with, at all (whois and nslookup can help determine this)?
-- What service providers are providing their IP addresses?
-- Are there specific times of day that are most common for activity?
-- Are there IP addresses which return at regular times?
+- **Blocked Connections:** 3003
+- **Number of Unique IPs:** 1551 
+- **Most attempts from one IP:** 62 attempts
+- **Most attempt IP Address**: 77.239.124.128
+- **Location of said IP:** Kerkrade, Limburg, The Netherlands (I tried a few online ip address lookup service and some of them gave me the location at Lauterbourg, France)
+-  **Time:** all 62 attempts were made between 12am - 5am UTC time, September 15. The earliest was  12:34 AM and the last entry was 4:38 AM. 
 
+Since my server is still pretty new, I couldn't really get to analyze if any ip adrress tried to access my server regularly. I tried to look up the organization name "ROCKET & MARINICA LTD" and found out that they are registered in London and was recently incorporated on 15, July 2026. The description the nature of business is "data processing, hosting and related activities". The company lookup website also show me a person Name Raul Gabriel Ghita as Director. I look him up and the first thing pop up is a post talking about this person might be a scammer LOL. [post link](https://lowendtalk.com/discussion/218476/concern-regarding-ghita-raul-the-scammer-nordic-vm-takehost-more-sponsorship-at-ronog) I am not hundred percent sure if I understand the whole situation about Raul and his shell companies, but it is interesting. I am guess the attempts were made by some sort of bot or scanner.
+
+
+
+<div align="center">
+<img src="firewall-log3.png" width="400">
+<img src="firewall-log4.png" width="400">
+<img src="firewall-log5.png" width="400">
+<img src="firewall-log6.png" width="400">
+</div>
 
 
 <div
@@ -92,7 +102,7 @@ I figured out my s
 		<br>Meet me room
 - Network Types
 	- Centralized 
-	- Decentralied
+	- Decentralized
 	- Distributed
 - Network Topologies
 	- Fully-connected
