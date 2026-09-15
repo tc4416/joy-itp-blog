@@ -53,8 +53,8 @@ try with what she had in their fridge, just keep trying
 
 Process: (3 serving)
 	Unfreeze beef, cut into small pieces, green onion, sliced ginger, cooking alcohol 抄血水到血水出來, take the beef out, reinse with hot water ( cold will make beef stiff)
-	 prepare material: half onion, half green onion, 2 garlic 切乘莫 其他切成丁
-	 dry chili, 八角，香葉.
+	 prepare material: half onion, half green onion切成丁, 2 garlic切成末．
+	 pre pare dry chili, 八角，香葉.
 	 put a small block Butter, melt it, put onion and green onions and garlic into pot stir to soft
 	 put chili, 八角，香葉，stir to smell good,
 	 put a block of japanese curry block, stir until melt, 
