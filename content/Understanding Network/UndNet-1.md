@@ -1,5 +1,5 @@
 ---
-title: UndNet-1
+title: "Understanding Network: Week1"
 ---
 ### Lecture
 #### [Network Definition and Dynamics](https://itp.nyu.edu/classes/undnet/geography-of-the-internet/)
@@ -92,5 +92,20 @@ Since my server is still pretty new, I couldn't really get to analyze if any ip 
 </div>
 
 ------
+### Reading
+
+**_How Infrastructure Shapes Us_ by Deb Chachra**
+> One definition of _infrastructure_ is that it’s all the underlying systems whose presence we take for granted when we start on something new.
+
+> Networks are intrinsically collective
+
+> It’s a myth that we make individual decisions about how we equip our buildings and homes; any decision we make is embedded in the social and technological standards of these shared systems, in other decisions that have already been made.
+
+> Eliel Saarinen famously wrote, “Always design a thing by considering it in its next larger context—a chair in a room, a room in a house, a house in an environment, an environment in a city plan.” Focusing on individual-level action for infrastructural systems is a lot like considering a chair in isolation, or maybe like considering it in the context of a city plan: You might just end up with a bunch of chairs in an empty lot, purchased and placed there by the people who can afford to buy chairs.
+
+**_Why Google Went Offline Today and a Bit about How the Internet Works_**
+**_We finally know what caused the global tech outage – and how much it cost_**
+
+
 ##### Other Links
 [ieee.org](ieee.org) : IEEE802.3
