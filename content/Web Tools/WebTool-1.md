@@ -28,7 +28,7 @@ title: WebTool-1
 2. [An app can be a home-cooked meal](https://www.robinsloan.com/notes/home-cooked-app/) by Robin Sloan
 	- Because there was no threading and no history, messages didn’t carry the burden of an expected reply. Really, they were just a carrier wave for another sentiment, and that sentiment was always the same: I’m thinking of you.
 
-I resinated a lot with Robin Sloan's blog! I found myself loaning for simple, minimal designed app more and more, and wanting to have a clean digital space for myself in general, and I think there are lots of people that feel the same. His idea of making app smaller scale, and more personal actually inspires me to make something for myself as well.
+I resinated a lot with Robin Sloan's blog! I found myself searching for simple, minimal designed app more and more, and wanting to have a clean digital space for myself in general, and I think there are lots of people that feel the same. His idea of making app smaller scale, and more personal actually inspires me to make something for myself as well.
 
 
 

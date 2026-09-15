@@ -37,7 +37,7 @@ Then set up the firewall by following [this guide](https://itp.nyu.edu/networks/
 <img src="/media/firewall.png" width="400">
 </div>
 
-**IPTABLE Firewall**
+##### IPTABLE Firewall
 not sure changing device ip how + my router ip
 
 <div align="center">
@@ -63,7 +63,7 @@ I missed the line in the tutorial that said install both ufw and iptables can be
 important command:
 
 ```
-sudo ls /var/log //check file
+sudo ls /var/log    #check file
 sudo wc -l /var/log/ufw.log
 sudo tail -3 /var/log/ufw.log
 sudo cat /var/log/ufw.log
@@ -71,7 +71,7 @@ sudo cat /var/log/ufw.log | grep '64.62.197.125'
 sudo cat /var/log/ufw.log | grep '64.62.197.125' | wc -l
 sudo tail -10 /var/log/ufw.log | sed -e 's/\s/\t/g'
 ```
-
+I figured out my s
 
 - How many different attempts were there to connect to your server?
 - How different IP addresses attempted to connect to your server?
