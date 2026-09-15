@@ -51,7 +51,7 @@ I took out `-A INPUT -s _192.168.0.1_/32 -i tcp -p tcp -m tcp --dport 22 -j DROP
 
 I missed the line in the tutorial that said install both ufw and iptables can be troublesome, so I installedn them and was blocked out of my server. After some trouble shooting and recreate a droplet  and only install ufw, I was able to get it working.
 
-#### firewall log
+### firewall log
 
 <div align="center">
 <img src="/media/firewall-log1.png" width="400">
@@ -84,8 +84,6 @@ I didn't figured out my server setup until Monday so only get to run it for a li
 
 Since my server is still pretty new, I couldn't really get to analyze if any ip adrress tried to access my server regularly. I tried to look up the organization name "ROCKET & MARINICA LTD" and found out that they are registered in London and was recently incorporated on 15, July 2026. The description the nature of business is "data processing, hosting and related activities". The company lookup website also show me a person Name Raul Gabriel Ghita as Director. I look him up and the first thing pop up is a post talking about this person might be a scammer LOL. [post link](https://lowendtalk.com/discussion/218476/concern-regarding-ghita-raul-the-scammer-nordic-vm-takehost-more-sponsorship-at-ronog) I am not hundred percent sure if I understand the whole situation about Raul and his shell companies, but it is interesting. I am guess the attempts were made by some sort of bot or scanner.
 
-
-
 <div align="center">
 <img src="firewall-log3.png" width="400">
 <img src="firewall-log4.png" width="400">
@@ -93,41 +91,6 @@ Since my server is still pretty new, I couldn't really get to analyze if any ip 
 <img src="firewall-log6.png" width="400">
 </div>
 
-
-<div
-
-### What is the internet?
-- Autonomous System
-- Inter-Exchange Providers(IXP)
-		<br>Meet me room
-- Network Types
-	- Centralized 
-	- Decentralized
-	- Distributed
-- Network Topologies
-	- Fully-connected
-	- star
-	- Bus
-	- Ring
-- Link Density
-	- Complete networks: <br> $$links = (n^2-n)/2 $$
-- Open Systems Interconnect (OSI) Network Model
-	<br>"Please do not throw sausage pizza away"
-	- Application
-		- Uses or generates network data from user activitis
-	- Presentation
-		- Handle the formatting and presentation of incoming data to application
-	- session
-		- manage the connection sender and receiver
-	- Transport
-		- manage type of transmission, order of packets recid
-	- Network
-		- Handle address and trafic management between networks
-	- Data Link
-		- manages traffic on the physical transmission
-	- Phyiscal
-		- fiber optics, cipper, radio etc.
-
+------
 ##### Other Links
 [ieee.org](ieee.org) : IEEE802.3
-
