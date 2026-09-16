@@ -28,7 +28,9 @@ My grandpa is getting old. He started losing his hearing a few years ago and he 
 
 -------
 ### Reading 
-Ocan Vuong "tell story to recalibrate the past"
-the body is the ultimate witness to love
-
+Ocan Vuong 
+- "tell story to recalibrate the past"
+- the body is the ultimate witness to love
+- "we are capable of disaster. And we are scared."
+- "how are you has failed us, and we had to find something else"?
 
