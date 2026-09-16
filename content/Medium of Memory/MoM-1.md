@@ -1,5 +1,5 @@
 ---
-title: MoM-1
+title: "MoM: Week 1"
 ---
 [class syllabus](https://docs.google.com/document/d/14BVVfsKsTisTFcfrEpHn8T8tRGU5cmW8KPRrLRNRj8k/edit?tab=t.0#heading=h.4xy4fzf5tfi9)
 ### Reading 

@@ -1,5 +1,5 @@
 ---
-title: WebTool-1
+title: "WebTool: Week 1"
 ---
 [syllabus](https://docs.google.com/document/d/1Q9ZeUG8pLDvJX9CuMssBdstOl_AoQmv-13MV8FvK0Nw/edit?tab=t.0)
 ### What is a Web

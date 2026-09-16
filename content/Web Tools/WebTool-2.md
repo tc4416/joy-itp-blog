@@ -1,5 +1,5 @@
 ---
-title: WebTool-2
+title: "WebToo: Week 2"
 draft: false
 ---
 #### Lecture

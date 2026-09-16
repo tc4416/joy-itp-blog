@@ -1,5 +1,5 @@
 ---
-title: Time-1
+title: "Time: Week 1"
 draft: false
 ---
 ### Lecture
