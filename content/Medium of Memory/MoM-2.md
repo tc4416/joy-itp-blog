@@ -30,7 +30,8 @@ I think these pictures are adorable. When I first learned about their possible o
 My grandpa is getting old. He started losing his hearing a few years ago and his sleeping time is getting longer and longer. For the years that I have been out here away from home, I've carried this fear of losing him. Receiving these graphics is also a way for me to know that my grandpa is still waking up today. I chose elderly graphics as my inspiration for the visual intervention, imagining myself in front of my computer the night I arrived in the U.S. and trying to put everything I want to say in a picture. I want him to know that I am doing great and there is nothing to worry about, and that all I really wish for is for him to be healthy and happy, and that I love him very much. Everything I want to say would be in this cheesy little image.
 
 <div align="center">
-<img src="/media/mom-hw2-message.gif" width="400">
+<img src="/media/mom-hw2-message.gif" width="200">
+<img src="/media/elderly.png" width="400">
 </div>
 
 
