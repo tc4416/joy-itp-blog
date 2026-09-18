@@ -4,29 +4,32 @@ draft: false
 ---
 ### Lecture
 #### What is a week?
-how different culture name week days?
+##### how different culture name week days?
 - Hebrew: Sunday is day 1
 - Mandarin: Monday is day 1
 - Korean: planet
 - Japanese: element's
 
-Why is a week 7 days?
+##### Why is a week 7 days?
 - seven planets?
 - bible: god work for 6 days? + 1 days for us?
 
-antikythera mechanism
-majority of people believe time exist
-clock of the long now
-Time Since Launch
-RTC brekout timer
+##### Other mentioned
+- antikythera mechanism
+- majority of people believe time exist
+- clock of the long now
+- Time Since Launch
+- RTC brekout timer
+- Altitude and Azimuth https://stellarium-web.org/
+- syncing time
+#### Assignments : Sundial
+After looking up several sundial design I found vertical sundial much cooler looking than horizontal one. (no reason), so I decided to go with that. I first use the sundial making tool on sundialzone.com to generate a paper model of how it'd look like. I am using the location of 370 str and have the config it as south facing, wall mount, show civiltime.
+<div align = "center">
+<img src= "/media/sundial2.png"  width = 200px>
+<img src= "/media/sundial1.png" width = 200px>
+</dic>
 
-ALtitude and Azimuth
-https://stellarium-web.org/
-### syncing time
-
-
-
-
+![[Pasted image 20260917150605.png]]
 
 
 #### Reading
@@ -37,3 +40,6 @@ https://stellarium-web.org/
 > One thing which Dominant, Hegemonic Time has insisted on, is the importance of harnessing peoples’ time for work; Time is Money, they say, without quite answering whose money is made out of whose time.
 
 menstruation: sexual politics of tim??
+##### The Big Here and Long Now
+> "Now" is never just a moment. The Long Now is the recognition that the precise moment you're in grows out of the past and is a seed for the future.
+
