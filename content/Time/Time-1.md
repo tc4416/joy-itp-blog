@@ -1,5 +1,5 @@
 ---
-title: "Time: Week 1"
+title: "Time: Week 1, Sundial"
 draft: false
 ---
 ### Lecture
@@ -9,11 +9,9 @@ draft: false
 - Mandarin: Monday is day 1
 - Korean: planet
 - Japanese: element's
-
 ##### Why is a week 7 days?
 - seven planets?
 - bible: god work for 6 days? + 1 days for us?
-
 ##### Other mentioned
 - antikythera mechanism
 - majority of people believe time exist
@@ -23,14 +21,28 @@ draft: false
 - Altitude and Azimuth https://stellarium-web.org/
 - syncing time
 #### Assignments : Sundial
-After looking up several sundial design I found vertical sundial much cooler looking than horizontal one. (no reason), so I decided to go with that. I first use the sundial making tool on sundialzone.com to generate a paper model of how it'd look like. I am using the location of 370 str and have the config it as south facing, wall mount, show civiltime.
+After looking through different kind of sundial, I decided to just go with a regular horizontal sundial. I was inspired by this following image.[(source)](https://www.are.na/block/17395132) when I was doing research. I like that instead of using the shadow as the clock hand, it use light. So I decicide to make something like this.
 <div align = "center">
-<img src= "/media/sundial2.png"  width = 200px>
-<img src= "/media/sundial1.png" width = 200px>
+<img src= "/media/taco-sundial.png"  width = 200px>
+
 </dic>
 
-![[Pasted image 20260917150605.png]]
+I first started by figuring out the sundial face by using the online sundial generating tools. The one I am using is this [website](https://www.blocklayer.com/sundial). It gave me a .svg file that I can easily modify in Adobe Illustrator. I made the top piece look like a sun itself. I cut two extra triangles with one of their corner 40.692° so that I can have the top piece angled.
 
+<div align = "center">
+<img src= "/media/sundial4.png"  width = 200px>
+<img src= "/media/sundial3.png"  width = 200px>
+</dic>
+
+Then I laser cut & assemble it.
+
+<div align = "center">
+<img src= "/media/sundial5.png"  width = 200px>
+<img src= "/media/sundial6.png"  width = 200px>
+<img src= "/media/sundial7.png"  width = 200px>
+<img src= "/media/sundial8.png"  width = 200px>
+<img src= "/media/sundial9.png"  width = 200px>
+</div>
 
 #### Reading
 > Time is a political subject. It is a crucial part of the language of power , between nations, and classes, between men and women, between humankind and nature. Stealthily, nastily, one type of time has grown horribly dominant: clock-dominated, work-oriented, coercive, capitalist and anti-natural: Hegemonic Time.
