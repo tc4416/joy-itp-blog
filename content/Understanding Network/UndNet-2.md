@@ -56,11 +56,11 @@ So I decided to extract both the ASN and IP address for analyzing the AS provide
 <figcaption>Traceroute Map: china-airline.com</figcaption>
 </div>
 
-I found it a little odd that I had so meny [AS0] across these traceroute, and the route seems to end quite quickly. So I suspect my method was not working well and it skipped through the line without ASN? So I went back to see the full traceroute with just `traceroute google.com` and other website. Except for google.com and are.na, all other website got stock at *** and didn't reach the destination. instagram, airbnb stalled at lower manhattan and china airline got one hop to Netherland and stop there.
+I found it a little odd that I had so many [AS0] across these traceroutes, and the routes seemed to end quite quickly. So I suspected my method was not working well and that it skipped the lines without an ASN. So I went back to see the full traceroute with just traceroute google.com and the other websites. Except for google.com and are.na, all the other websites got stuck at * * * and didn't reach the destination. Instagram and Airbnb stalled in lower Manhattan, and China Airlines got one hop to the Netherlands and stopped there.
 
 <div align = "center">
 <img src = "/media/traceroute13.png" width = 350px>
 <figcaption>Traceroute output: google.com</figcaption>
 <img src = "/media/traceroute14.png" width = 350px>
 <figcaption>Traceroute output: are.na</figcaption>
-</div>
+</div>Then I also checked who own the AS from the ASN list that I got
