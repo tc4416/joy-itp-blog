@@ -16,6 +16,7 @@ So I started with language and found myself extended a lots on how language conn
 <img src = "/media/thesis/thesis-1.jpeg" width = "300 px">
 <img src = "/media/thesis/thesis-2.jpeg" width = "300 px">
 </div>
+I tried to make venn diagram too but not sure what should be in the middle:| I will continue explre/brainstorm.
 
 ![[thesis-3.png]]
 #### What I know I want...
