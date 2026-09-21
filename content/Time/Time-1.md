@@ -42,6 +42,7 @@ Then I laser cut & assemble it.
 <img src= "/media/sundial7.png"  width = 200px>
 <img src= "/media/sundial8.png"  width = 200px>
 <img src= "/media/sundial9.png"  width = 200px>
+<img src= "/media/sundial10.png"  width = 200px>
 </div>
 
 #### Reading
