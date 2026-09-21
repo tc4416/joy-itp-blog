@@ -4,7 +4,7 @@ title: "MoM: Week 2"
 
 #### Visual Intervention
 <div align="center">
-<img src="/media/mom-hw2.png" width="400">
+<img src="/media/mom/mom-hw2.png" width="400">
 <p>  ▲ Everything I Want to Say is Here</p>
 </div>
 
@@ -13,7 +13,7 @@ My inspiration for the visual intervention came from the messages that I get fro
 This genre of pictures is called "Elderly Graphics". They are widely spread among the middle-aged and elderly population in Taiwan through the messaging app LINE. The original creators of these images are not really traceable. From what I know, my grandpa receives them from his friends and he forwards them to me and other family members every morning and evening. These graphics most likely originate from community computer or smartphone classes for seniors, and that is why they always have a somewhat outdated aesthetic, and perhaps some effects in the graphics or text that look like someone is just trying out the features and is not very familiar with the software. While these pictures do not fit the standards of modern aesthetics, they are a good way for seniors to get into the world of technology and stay connected to the world. That is why they are widely spread on the platform.
 
 <div align="center">
-<img src="/media/burger.jpeg" width="200">
+<img src="/media/mom/burger.jpeg" width="200">
 <p>  ▲ Original picture: My very first meal when I first started my study journey in the U.S.</p>
 </div>
 

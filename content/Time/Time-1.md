@@ -30,25 +30,25 @@ After looking through different kind of sundial, I decided to just go with a reg
 I first started by figuring out the sundial face by using the online sundial generating tools. The one I am using is this [website](https://www.blocklayer.com/sundial). It gave me a .svg file that I can easily modify in Adobe Illustrator. I made the top piece look like a sun itself. I cut two extra triangles with one of their corner 40.692° so that I can have the top piece angled.
 
 <div align = "center">
-<img src= "/media/sundial4.png"  width = 200px>
-<img src= "/media/sundial3.png"  width = 200px>
+<img src= "/media/time/sundial4.png"  width = 200px>
+<img src= "/media/time/sundial3.png"  width = 200px>
 </dic>
 
 Then I laser cut & assemble it.
 
 <div align = "center">
-<img src= "/media/sundial5.png"  width = 200px>
-<img src= "/media/sundial6.png"  width = 200px>
-<img src= "/media/sundial7.png"  width = 200px>
-<img src= "/media/sundial8.png"  width = 200px>
-<img src= "/media/sundial9.png"  width = 200px>
-<img src= "/media/sundial10.jpeg"  width = 200px>
+<img src= "/media/time/sundial5.png"  width = 200px>
+<img src= "/media/time/sundial6.png"  width = 200px>
+<img src= "/media/time/sundial7.png"  width = 200px>
+<img src= "/media/time/sundial8.png"  width = 200px>
+<img src= "/media/time/sundial9.png"  width = 200px>
+<img src= "/media/time/sundial10.jpeg"  width = 200px>
 </div>
 
 
 And it works!
 <div align = "center">
-<img src= "/media/sundial-final.png"  width = 300px>
+<img src= "/media/time/sundial-final.png"  width = 300px>
 </div>
 
 #### Reading
