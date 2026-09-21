@@ -19,15 +19,19 @@ So I started with language and found myself extending a lot into how language co
 I tried to make Venn diagram too but not sure what should be in the middle:| I will continue to explore/brainstorm.
 
 ![[thesis-3.png]]
+**things i thought about last minute**
+prayer
+
 #### What I know I want...
 - A physical output
 	- device / installation
 - Perhaps explore AI/machine learning?
 - Do something with what I learned in Reading and Writing Electronics Text?
+- A project with strong concept, something I really care, not just that it looks cool
 #### Repository for Inspiration
 - I started my thesis research channel
 	- [are.na](https://www.are.na/joy-chang/thesis-research-pczxvyayo4a)
-- One art piece that kept coming to my mind when I was thinking about my thesis was [The Fortune Teller Machine by BEATRIZ CORTEZ](https://beatrizcortez.com/the-fortune-teller-machine-2/) . I love that it is so simple yet has such a strong concept of collective manifesto, and that it incorporates linguistic elements (using the future perfect tense in the phrase) into it. 
+- One art piece that kept coming to my mind when I was thinking about my thesis was [The Fortune Teller Machine by BEATRIZ CORTEZ](https://beatrizcortez.com/the-fortune-teller-machine-2/) that I saw in New Museum during summer. I love that it is so simple yet has such a strong concept of collective manifesto, and that it incorporates linguistic elements (using the future perfect tense in the phrase) into it. 
 	- But how do i make something differ from this?
 - Thesis archives that stood out to me:
 	- [WAR by Jasmine](https://itp.nyu.edu/thesis/archive/2025/11622-jasmine-nackash/)

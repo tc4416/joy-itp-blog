@@ -6,9 +6,9 @@ title: "UndNet: Week1"
 A network is a collection of things connected to each other, The internet is just one of many networks.
 ##### Topologies of Networks
 <div align="center">
-<img src="/media/network1.png" width="200">
-<img src="/media/network2.png" width="200">
-<img src="/media/network3.png" width="200">
+<img src="/media/und/network1.png" width="200">
+<img src="/media/und/network2.png" width="200">
+<img src="/media/und/network3.png" width="200">
 </div>
 
 ##### Link Density
@@ -16,7 +16,7 @@ A network is a collection of things connected to each other, The internet is jus
 Complete networks: <br> $$links = (n^2-n)/2 $$
 ##### OSI Model
 <div align="center">
-<img src="/media/osichart.png" width="400">
+<img src="/media/und/osichart.png" width="400">
 </div>
 
 A router on an IP network is a device which defines the network and the range of addresses assigned to other devices when they’re connected to that network. In doing so, it also defines the maximum number of devices on the network. For example, a router might give itself the address 10.0.0.1, and then define that all other devices on that network get addresses from 10.0.0.2 to 10.0.0.255.

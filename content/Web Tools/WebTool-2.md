@@ -37,10 +37,10 @@ Tool Reflection
 
 My tool of choice is my laptop mouse.
 
-I think I first learned how to use it when I first learn to use computer, perhaps when I was 8 or 9? It is a intuitive tool and I don't recall a leaning process. Instead, I just pick up naturally by seeing how my parents and my brother using it. Without it, I will need to use track pad on my laptop or use bunch of short cut on keyboard.
+I think I first learned how to use it when I first learned to use a computer, perhaps when I was 8 or 9. It is an intuitive tool, and I don't recall a learning process. Instead, I just picked it up naturally by watching my parents and my brother use it. Without it, I would need to use the trackpad on my laptop and/or a bunch of keyboard shortcuts. It also makes my wrist feel better than using the trackpad for a long time. I think I could survive without a laptop mouse; however, it drastically improves my efficiency when I am doing more complex work on my laptop, especially in design software.
 
 <div align = "center">
-<img src = "/media/mouse.png" width = 300px>
+<img src = "/media/webtool/mouse.png" width = 300px>
 </div>
 
 
