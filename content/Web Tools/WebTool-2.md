@@ -35,3 +35,12 @@ Tool Reflection
 	- when and how you first learned of it
 	- what you would use if this things did not exist
 
+My tool of choice is my laptop mouse.
+
+I think I first learned how to use it when I first learn to use computer, perhaps when I was 8 or 9? It is a intuitive tool and I don't recall a leaning process. Instead, I just pick up naturally by seeing how my parents and my brother using it. Without it, I will need to use track pad on my laptop or use bunch of short cut on keyboard.
+
+<div align = "center">
+<img src = "/media/mouse.png" width = 300px>
+</div>
+
+
