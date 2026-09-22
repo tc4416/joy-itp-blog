@@ -9,7 +9,7 @@ draft: false
 - traceroute: [traceroute mapper](https://stefansundin.github.io/traceroute-mapper/), works by multiple pings
 - check out `curl`,`-v`, `-l`, `man`
 - saving firewall log to file
-copy from sever to local mochine
+copy from sever to local machine
 `scp  joychang@ipaddress: home/joychang/test/txt`
 
 #### Reading
@@ -25,7 +25,7 @@ I am using traceroute for the following websites that I frequently visit:
 - are.na
 - china-airline.com
 
-I was stalking [Nasif's blog](https://itp.nasif.co/classes/networks/) for this class and noticed that he was using `traceroute -a` to analyze the network hopping. After searching it up, I learned that AS number (ASN) are **unique identifier to a network or collection of networks under a single administrative control** , which is good know.
+I was stalking [Nasif's blog](https://itp.nasif.co/classes/networks/) for this class and noticed that he was using `traceroute -a` to analyze the network hopping. After searching it up, I learned that AS number (ASN) is an **unique identifier to a network or collection of networks under a single administrative control** , which is good to know.
 <div align = "center">
 <img src = "/media/und/traceroute1.png">
 <img src = "/media/und/traceroute2.png">
@@ -33,25 +33,25 @@ I was stalking [Nasif's blog](https://itp.nasif.co/classes/networks/) for this c
 So I decided to extract both the ASN and IP address for analyzing the AS provider and for mapping the network hops. I use `traceroute -an google.com | grep -oE '\[AS[0-9]+\] [0-9.]+'` and it gives me something like this: 
 
 <div align = "center">
-<img src = "/media/und/traceroute3.png" width = 200px>
+<img src = "/media/und/traceroute3.png" width = 400px>
 <figcaption>Traceroute output: google.com</figcaption>
-<img src = "/media/und/traceroute4.png" width = 200px>
+<img src = "/media/und/traceroute4.png" width = 400px>
 <figcaption>Traceroute Map: Google.com.</figcaption>
-<img src = "/media/und/traceroute5.png" width = 200px>
+<img src = "/media/und/traceroute5.png" width = 400px>
 <figcaption>Traceroute output: instagram.com</figcaption>
-<img src = "/media/und/traceroute6.png" width = 200px>
+<img src = "/media/und/traceroute6.png" width = 400px>
 <figcaption>Traceroute Map: instagram.com</figcaption>
-<img src = "/media/und/traceroute7.png" width = 200px>
+<img src = "/media/und/traceroute7.png" width = 400px>
 <figcaption>Traceroute output: airbnb.com</figcaption>
-<img src = "/media/und/traceroute8.png" width = 200px>
+<img src = "/media/und/traceroute8.png" width = 400px>
 <figcaption>Traceroute Map: airbnb.com</figcaption>
-<img src = "/media/und/traceroute9.png" width = 200px>
+<img src = "/media/und/traceroute9.png" width = 400px>
 <figcaption>Traceroute output: are.na</figcaption>
-<img src = "/media/und/traceroute10.png" width = 200px>
+<img src = "/media/und/traceroute10.png" width = 400px>
 <figcaption>Traceroute Map: are.na</figcaption>
-<img src = "/media/und/traceroute11.png" width = 200px>
+<img src = "/media/und/traceroute11.png" width = 400px>
 <figcaption>Traceroute output: china-airline.com</figcaption>
-<img src = "/media/und/traceroute12.png" width = 200px>
+<img src = "/media/und/traceroute12.png" width = 400px>
 <figcaption>Traceroute Map: china-airline.com</figcaption>
 </div>
 
@@ -63,7 +63,7 @@ I found it a little odd that I had so many [AS0] across these traceroutes, and t
 <figcaption>Traceroute output: are.na</figcaption>
 </div>
 
-After that I did the same thing using school wifi:
+After that I did the same thing using school wifi. According to the map:
 - Google reached the destination at Syracuse, NY
 - Instagram did not reach the destination and stalled after reaching Carlstadt, NJ
 -  Airbnb did not reach the destination and stalled after reaching Syracuse, NY
@@ -85,3 +85,4 @@ Then I also checked who owns the AS from the ASN lists that I got:
 - AS32934: "Facebook, Inc."
 - AS33182: "HostDime.com, Inc."
 
+It seems like Spectrum carries most of the network hopping with household wifi, while at school, traffic is handed to several different carriers.

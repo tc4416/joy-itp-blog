@@ -27,3 +27,9 @@ I wonder how ancient people recall memory when film/image media had yet to be in
 For the reading, I especially like where the author pointed out that "Films or photos are not memory; they are mediated building blocks that we mold in the process of remembering." As someone with a terrible memory, media is definitely something essential for me to trace back my own experience and history. Sometimes when I look back on videos and photos in my albums, I get to recall other parts of that specific moment: the emotion, the smell of the environment, the temperature etc. Media serves as a hint and guides me through my process of remembering.
 
 At the same time, this also makes me think about the parts of an experience that are not captured by media. The act of capturing a moment and storing/converting it into a piece of media directs our attention toward the tool we are using to capture the moment, as well as what is in the frame. It helps us remember specific things about that moment, but at the same time, I wonder if it also takes away some of our ability to fully experience that exact moment? And is it truly worth it?
+
+#### Assignment
+**Update from last week: my grandpa ignored me<3**
+<div align = "center">
+<img src = "/media/mom/grandpa-ignore-me.png" width = "400px">
+</div>
