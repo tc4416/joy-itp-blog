@@ -29,24 +29,24 @@ Followed the [guide](https://itp.nyu.edu/networks/setting-up-a-virtual-host/) an
 `sudo apt upgrade` I chose the highlight option because I think that was the default setting and perhaps the right things to do?
 
 <div align="center">
-<img src="/media/sudo-update.png" width="400">
+<img src="/media/und/sudo-update.png" width="400">
 </div>
 Then set up the firewall by following [this guide](https://itp.nyu.edu/networks/setting-up-a-firewall-on-an-embedded-linux-device/)
 
 <div align="center">
-<img src="/media/firewall.png" width="400">
+<img src="/media/und/firewall.png" width="400">
 </div>
 
 ##### IPTABLE Firewall
 not sure changing device ip how + my router ip
 
 <div align="center">
-<img src="/media/firewall_IP.png" width="400">
+<img src="/media/und/firewall_IP.png" width="400">
 </div>
 I took out `-A INPUT -s _192.168.0.1_/32 -i tcp -p tcp -m tcp --dport 22 -j DROP` because I'm not sure I understand it. *"This prevents ssh logins from outside your local network. Change the IP address to the address of your router.  If you’re operating in an institution with multiple networks like ITP, this rule might prevent you from logging into your device, if your computer and your device are on different local networks. If so, delete it."*
 
 <div align="center">
-<img src="/media/invalidIP.png" width="400">
+<img src="/media/und/invalidIP.png" width="400">
 </div>
 
 I missed the line in the tutorial that said install both ufw and iptables can be troublesome, so I installedn them and was blocked out of my server. After some trouble shooting and recreate a droplet  and only install ufw, I was able to get it working.
@@ -54,8 +54,8 @@ I missed the line in the tutorial that said install both ufw and iptables can be
 ### firewall log
 
 <div align="center">
-<img src="/media/firewall-log1.png" width="400">
-<img src="/media/firewall-log2.png" width="400">
+<img src="/media/und/firewall-log1.png" width="400">
+<img src="/media/und/firewall-log2.png" width="400">
 </div>
 
 
