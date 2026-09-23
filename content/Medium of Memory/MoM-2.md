@@ -1,14 +1,12 @@
 ---
 title: "MoM: Week 2"
 ---
-
 #### Visual Intervention
 <div align="center">
 <img src="/media/mom/mom-hw2.png" width="400">
 <p>  ▲ Everything I Want to Say is Here</p>
 </div>
-
-My inspiration for the visual intervention came from the messages that I get from my grandpa every day. I get about two or three images every day, one in the early morning in Taiwan’s time zone, and another one in the evening. All of these pictures have a very specific aesthetic: they are cheesy, basic, colorful, and often contain images of flowers like lotuses. A person with any design background would probably refer to them as an aesthetic disaster. Most of the time, the images will have phrases like "good morning", "wish you well", or some other sort of spiritual, uplifting phrase. Just like this article's title, they are so bad that they're good.
+My inspiration for the visual intervention came from the messages that I get from my grandpa every day. I get about two or three images every day, one in the early morning in Taiwan’s time zone, and another one in the evening. All of these pictures have a very specific aesthetic: they are cheesy, basic, colorful, and often contain images of flowers like lotuses. A person with any design background would probably refer to them as an aesthetic disaster. Most of the time, the images will have phrases like "good morning", "wish you well", or some other sort of spiritual, uplifting phrase. Just like [this article's](https://still-loud.com/2017/02/25/elderly-graphics-so-bad-that-theyre-good/) title, they are so bad that they're good.
 
 This genre of pictures is called "Elderly Graphics". They are widely spread among the middle-aged and elderly population in Taiwan through the messaging app LINE. The original creators of these images are not really traceable. From what I know, my grandpa receives them from his friends and he forwards them to me and other family members every morning and evening. These graphics most likely originate from community computer or smartphone classes for seniors, and that is why they always have a somewhat outdated aesthetic, and perhaps some effects in the graphics or text that look like someone is just trying out the features and is not very familiar with the software. While these pictures do not fit the standards of modern aesthetics, they are a good way for seniors to get into the world of technology and stay connected to the world. That is why they are widely spread on the platform.
 

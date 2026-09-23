@@ -9,9 +9,9 @@ I have always considered myself a person with a terrible memory. Oftentimes, whe
 
 One thing that stood out to me from both the reading and the podcast is how the hippocampus bundles our senses together to form memories, and how we are more likely to remember something when it is emotional. As I tried to recall my early childhood memories, I found that the ones I could recall were often moments when I was emotional, which agrees with what Kristin said.
 
-
 The discussion of AI at the end of the podcast was also interesting. It made me wonder about how we form memories nowadays. In an era when people are constantly stimulated by media and online platforms, resulting in sensory overload, could this affect our brain’s ability to bundle information together and store it as memory? In addition, with the distraction of electronic devices that can somewhat disrupt and distort our experiences, could this result in a decline in our ability to form and store memories?
 
+-----------------------------------
 ### Writing 
 Pormpt : 
 Think of your earliest memory (or one of them!). Write yourself into the scene in first person and present tense: I'm sitting on a chair...
@@ -28,16 +28,6 @@ All the kids in our class, probably around 10–15 of us, are in the classroom, 
 I am honestly not sure if this is a dream or a true memory. The only way I think she could have tricked me like this is by rotating her ankle or the sock when I didn't notice, and the sock must have had different numbers of cherries on each side. But that doesn't sound very realistic. I think one time I saw the same socks when I went to a market with my mom. And I thought to myself, “The socks must have different numbers of cherries around the ankle!” But I checked and was disappointed to find out that on each side of the socks there were two cherries. This whole thing remains a mystery, and I guess it is a little sad that my earliest memory is of me being humiliated.
 
 ### Bring
-For next class, please bring with you a printed* photograph that means something to you personally. This could be an image of a relative or place from generations ago, a family snapshot, a childhood photo––something that elicits a memory.  
-  
-On a separate piece of paper, write/print a caption for your image and bring that as well.
+>For next class, please bring with you a printed* photograph that means something to you personally. This could be an image of a relative or place from generations ago, a family snapshot, a childhood photo––something that elicits a memory.  On a separate piece of paper, write/print a caption for your image and bring that as well.
 
-*If you don’t already have the image as a physical print, please print it so it is as high resolution, legible, and close to the original as possible (if the image is in color, print it in color…)
-
-
-![[grandPa.jpg|227]]
-<br> ▲ Me with my grandfather and older brother in a orchard, before my youger brother was born.
-
----
-![[burger.jpeg|231]]
-<br> ▲ My very first meal when I first started my study journey in the U.S. when I was 18. My brother took me to Five Guys because it was the only place that was still opened at 9 pm in a suburban town. I remember thinking the air smells America. I cried so much on my way from home to the US because I was scared, but the burger was yummy.
+![[burger.jpeg|231]]<br> ▲ My very first meal when I first started my study journey in the U.S. when I was 18. My brother took me to Five Guys because it was the only place that was still opened at 9 pm in a suburban town. I remember thinking the air smells America. I cried so much on my way from home to the US because I was scared, but the burger was yummy.
