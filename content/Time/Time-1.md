@@ -23,7 +23,7 @@ draft: false
 #### Assignments : Sundial
 After looking through different kind of sundial, I decided to just go with a regular horizontal sundial. I was inspired by this following image.[(source)](https://www.are.na/block/17395132) when I was doing research. I like that instead of using the shadow as the clock hand, it use light. So I decicide to make something like this.
 <div align = "center">
-<img src= "/media/taco-sundial.png"  width = 200px>
+<img src= "/media/time/taco-sundial.png"  width = 200px>
 
 </dic>
 
