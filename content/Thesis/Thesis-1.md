@@ -12,7 +12,7 @@ I was struggling a little bit when I started drawing mind maps. I have a few are
 
 So I started with language and found myself extending a lot into how language connects to thoughts and linked them back to time, memory and belief. So I guess I am interested in the study of future? Some questions:
 - What is an ideal future? When reality meets expectation?
-- We think about our future with our own language, which, in a way, is a representation of what we have experienced and learned. Does that mean that our future is limited by our  past?
+- We think about our future with our own language, which, in a way, is a representation of what we have experienced and learned. Does that mean that our future is limited by our past?
 <div align = "center">
 <img src = "/media/thesis/thesis-1.jpeg" width = "300 px">
 <img src = "/media/thesis/thesis-2.jpeg" width = "300 px">
@@ -22,6 +22,8 @@ I tried to make Venn diagram too but not sure what should be in the middle:| I w
 ![[thesis-3.png]]
 **things i thought about last minute**
 prayer
+dream -> a story of past or prediction of future?
+
 
 #### What I know I want...
 - A physical output
