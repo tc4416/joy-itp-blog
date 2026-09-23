@@ -29,7 +29,15 @@ For the reading, I especially like where the author pointed out that "Films or p
 At the same time, this also makes me think about the parts of an experience that are not captured by media. The act of capturing a moment and storing/converting it into a piece of media directs our attention toward the tool we are using to capture the moment, as well as what is in the frame. It helps us remember specific things about that moment, but at the same time, I wonder if it also takes away some of our ability to fully experience that exact moment? And is it truly worth it?
 
 #### Assignment
-**Update from last week: my grandpa ignored me<3**
+Update from last week: I sent my greeting image to my grandpa and he left me unread
+
+----------------------------------------------------------
+[Link](https://tc4416.github.io/for-grandpa/)
+I have been thinking about my grandpa more recently since working on this mini project. But the more I think about it, the more I feel like I don't know much about him. I spent a lot of time with him when I was a kid. He would pick me up after school every day and cook me dinner, and on weekends my brother, my mom, and I would spend the whole morning just talking about random things and drinking tea. Yet I realize I don't know much about his past, before he became my grandpa. What did he do? Where was he born? He never talked about it, and I never thought to ask. All my love for him is made up of the tiny moments we spent together, and the consistent care I receive from him every day. I never really hear the phrase "I love you" in my family. Perhaps it is a cultural thing, but I never doubt that the love is there. Just like Ocean Vuong said, the body is the ultimate witness to love.
+
+Then I thought about Maya Man's small web piece, where she lists all the small things she loves about her partner, and it resonated with the form of caring and loving that I experience. So I decided to make a version of this for my grandpa. The first page, _I love it when you_, lists the things I love about him, and it links to a second page, _and I want to tell you that_, which is where I add the narrative to my piece from last week. I mixed the greeting image I made with some phrases I tell him. My simple greeting carries as much as spoken words do. It ends with "I love you, and thank you for loving me."
+
 <div align = "center">
-<img src = "/media/mom/grandpa-ignore-me.png" width = "400px">
+<img src = /media/mom/grandpa.gif><img src = /media/mom/grandpa2.gif>
+
 </div>

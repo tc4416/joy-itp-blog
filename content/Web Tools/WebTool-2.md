@@ -27,6 +27,8 @@ draft: false
 > A.I. can write very good software, but it also makes it easy to do someone else’s job badly, which is part of why all those projects fail. Now that everyone can code, it’s become clearer why many shouldn’t.
 
 >The future may not be a few huge apps running on a few huge platforms, generating tons of revenue; it could instead be tons of little ones, purpose-built for the church, mutual aid group, company department or softball league. I’d enjoy a future in which the answer to “Where’s the great software A.I. was supposed to bring us?” is: “Everywhere.”
+
+> something fundamental about A.I. coding, and A.I. in general: It’s very good at reproducing things that look and feel like what came before. It can make a PowerPoint presentation, or even, with time and coaching from a human, a flimsy version of PowerPoint itself. But making something new, something no one has seen before, takes much more time — sometimes just as long as it took before A.I.
 #### Assignment
 **Prompt:**
 Tool Reflection  

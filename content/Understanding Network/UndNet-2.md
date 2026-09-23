@@ -86,3 +86,6 @@ Then I also checked who owns the AS from the ASN lists that I got:
 - AS33182: "HostDime.com, Inc."
 
 It seems like Spectrum carries most of the network hopping with household wifi, while at school, traffic is handed to several different carriers.
+
+**how can we still reach website through browser**
+- router prioritize http request

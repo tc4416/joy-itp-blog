@@ -9,6 +9,7 @@ I was struggling a little bit when I started drawing mind maps. I have a few are
 - Memory
 - Fortune Telling / Fate
 - Superstition
+
 So I started with language and found myself extending a lot into how language connects to thoughts and linked them back to time, memory and belief. So I guess I am interested in the study of future? Some questions:
 - What is an ideal future? When reality meets expectation?
 - We think about our future with our own language, which, in a way, is a representation of what we have experienced and learned. Does that mean that our future is limited by our  past?
