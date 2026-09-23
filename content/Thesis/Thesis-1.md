@@ -41,4 +41,4 @@ dream -> a story of past or prediction of future?
 	- [Infrastructures of Distance, or the Logics of Thinning and Thickening by Nasif](https://itp.nyu.edu/thesis/archive/2026/12185-nasif-rincon-romaite/)
 	- [SUPERSTITE by Audrey](https://itp.nyu.edu/thesis/archive/2026/12528-audrey-oh/)
 	- [Loose Ends by Alanna](https://itp.nyu.edu/thesis/archive/2026/12309-alanna-okun/)
-	- [Hypnagogia](https://vimeo.com/1191548358)
+	- [Hypnagogia by Jin](https://vimeo.com/1191548358)

@@ -14,6 +14,8 @@ what i feel about future
 people i should talk to
 	- Audrey
 	- Antonia 
+	- Jeff- why does Jeff study time?
+	- 
 
 #### Keywords
 #OedipusEffect #Prophecy
@@ -23,3 +25,6 @@ people i should talk to
   
 Laplace's Demon
 
+
+#### Note
+- Tisch scholarship for cross department project
