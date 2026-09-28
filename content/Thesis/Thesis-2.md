@@ -10,6 +10,7 @@ what i feel about future
 - I want to know about the future so that I can be prepared for it. But if I prepare for it, will that change the future?
 - What even is an ideal future? Am I in control of it?
 - Are my dreams a story from my past or a prediction of the future?
+- my mom pray to every god she knows
 
 people i should talk to
 	- Audrey
@@ -22,8 +23,12 @@ people i should talk to
 [Oedipus Effect](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100246953)
 > the effect of a prediction on the predicted event, the prediction either causing or preventing the event that it predicts, or more generally the influence of an item of information on the situation to which the information refers
 
-  
+#Pareidolia
+  > Pareidolia is the common psychological tendency to see familiar shapes, faces, or patterns
+
 Laplace's Demon
+
+#おみくじ #Omikuji
 
 
 #### Note
