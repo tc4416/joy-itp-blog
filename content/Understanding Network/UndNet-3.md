@@ -6,9 +6,13 @@ draft: false
 - Both Wireshark and tcpdump command are used for analyzing packet. Wireshark has GUI.
 - For this assignment, I am using my Digital Ocean server
 - Checking interface:
-	- ![[packet-1.png]]
+<div align = "center">
+<img src = "/media/und/packet-1.png" width = "400px">
+</div>
 - Understanding output:
-	- I think [this tutorial](https://linuxhint.com/tcpdump-command-tutorial/ ) is the most digestible one for me haha.![[packet-2.png]]
+	- I think [this tutorial](https://linuxhint.com/tcpdump-command-tutorial/ ) is the most digestible one for me haha.<div align = "center">
+<img src = "/media/und/packet-2.png"width = "400px">
+</div>
 
 	- Filter by host ip: `$ sudo tcpdump -i any -c4 host 10.0.2.15`
 	- Filter by port number: `$ sudo tcpdump -i any -c3 -nn port 443`
@@ -21,10 +25,10 @@ draft: false
 - I had the data collection ran for about 5 mins.
 	- `sudo tcpdump -i eth0 -w packetAnalysis_all.pcap`
 	-  local: `scp joychang@142.93.249.203:/home/joychang/packetAnalysis_all.pcap ~/Desktop`
-	- Open with wireShark![[packet-3.png]]
+	- Open with wireShark <div align = "center"><img src = "/media/und/packet-3.png" width = "400px"></div>
 	- It captured 508 packet
 - Protocols
-	- HTTP: 7 (~1.38%) ![[packet-4.png]]
+	- HTTP: 7 (~1.38%) <div align = "center"><img src = "/media/und/packet-4.png" width = "400px"></div>
 	- SSH: 202(39.8%)  and 47 of them are SSHv2
 	- TCP: 268(52.8%) 
 	- TLSv1.2: 16(3.1%)
