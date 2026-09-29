@@ -13,14 +13,20 @@ draft: false
 	- I think [this tutorial](https://linuxhint.com/tcpdump-command-tutorial/ ) is the most digestible one for me haha.<div align = "center">
 <img src = "/media/und/packet-2.png"width = "400px">
 </div>
-
-	- Filter by host ip: `$ sudo tcpdump -i any -c4 host 10.0.2.15`
-	- Filter by port number: `$ sudo tcpdump -i any -c3 -nn port 443`
-	- Filter by protocol: `$ sudo tcpdump -i any -c6 udp`
-	- Combining example: `$sudo tcpdump -i any -c6 -nn host 10.0.2.15 and port 443` and/or
-	- Storing data: `sudo tcpdump -i any -c5 -w packetDate.pcap` or `$ sudo tcpdump -i eth0  -w classdump.pcap`
-	- Reading Data: `tcpdump -r packetData.pcap`
-	- Download to local machine:  `$ scp tigoe@tigoe.net:/home/tigoe/classdump.pcap`
+	- Filter by host ip: 
+		- `$ sudo tcpdump -i any -c4 host 10.0.2.15`
+	- Filter by port number: 
+		- `$ sudo tcpdump -i any -c3 -nn port 443`
+	- Filter by protocol: 
+		- `$ sudo tcpdump -i any -c6 udp`
+	- Combining example: 
+		- `$sudo tcpdump -i any -c6 -nn host 10.0.2.15 and port 443` and/or
+	- Storing data: 
+		- `sudo tcpdump -i any -c5 -w packetDate.pcap` or `$ sudo tcpdump -i eth0  -w classdump.pcap`
+	- Reading Data: 
+		- `tcpdump -r packetData.pcap`
+	- Download to local machine:  
+		- `$ scp tigoe@tigoe.net:/home/tigoe/classdump.pcap`
 
 - I had the data collection ran for about 5 mins.
 	- `sudo tcpdump -i eth0 -w packetAnalysis_all.pcap`
