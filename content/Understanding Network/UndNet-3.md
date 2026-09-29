@@ -48,8 +48,8 @@ draft: false
 - How many other unique clients have tried to contact you? What are their relative levels of activities?
 	- *im not sure if this is the right way to do this*
 	- I found that Statistics > Endpoints will show the unique network devices that send or receive traffic. And Tx packets refer to the data units that are sent out, Rx to the data received. <div align= "center"><img src = "packet-5.png" width = 400px></div>
-	- With "Limit to display filter" checked, the IPv4 tab lists 60 endpoints, with only one of those rows having Rx Packet. That ip is from my own droplet. So that concludes that I have 59 unique clients tried to contact me?
-	- <div align= "center"><img src = "packet-6.png" width = 400px></div>
+	- With "Limit to display filter" checked, the IPv4 tab lists 60 endpoints, with only one of those rows having Rx Packet. That ip is from my own droplet. So that concludes that I have 59 unique clients tried to contact me? Does that me
+	- Most clients that tried to reached my droplet only attempted once and a few of the attempt multiple times. <div align= "center"><img src = "packet-6.png" width = 400px></div>
 #### Lecture
 ##### wireshark
 **tcp**
