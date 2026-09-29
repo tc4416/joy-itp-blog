@@ -17,7 +17,7 @@ draft: false
 	- Filter by host ip: `$ sudo tcpdump -i any -c4 host 10.0.2.15`
 	- Filter by port number: `$ sudo tcpdump -i any -c3 -nn port 443`
 	- Filter by protocol: `$ sudo tcpdump -i any -c6 udp`
-	- Combining examole: `$sudo tcpdump -i any -c6 -nn host 10.0.2.15 and port 443` and/or
+	- Combining example: `$sudo tcpdump -i any -c6 -nn host 10.0.2.15 and port 443` and/or
 	- Storing data: `sudo tcpdump -i any -c5 -w packetDate.pcap` or `$ sudo tcpdump -i eth0  -w classdump.pcap`
 	- Reading Data: `tcpdump -r packetData.pcap`
 	- Download to local machine:  `$ scp tigoe@tigoe.net:/home/tigoe/classdump.pcap`
@@ -32,7 +32,7 @@ draft: false
 	- SSH: 202(39.8%)  and 47 of them are SSHv2
 	- TCP: 268(52.8%) 
 	- TLSv1.2: 16(3.1%)
-	- UDP, L2TP, SIP, SNMP: 1 (0.2%)
+	- UDP, L2TP, SIP, SNMP: 1 (0.2%)![[packet-5.png]]
 	- ARPL: 4(0.8%)
 	- ICMPv6: 6(1.2%)
 - How much is from remote hosts attempting  to access ports or services you don’t have open?  
@@ -40,7 +40,10 @@ draft: false
 	- [display filter tutorial]https://wiki.wireshark.org/DisplayFilters)
 	- I used `tcp.flags.syn==1 && tcp.flags.ack==0 && ip.dst==142.93.249.203`
 - How many other unique clients have tried to contact you? What are their relative levels of activities?
-	- Not sure how to answer this
+	- *im not sure if this is the right way to do this*
+	- I found that Statistics > Endpoints will show the unique network devices that send or receive traffic. And Tx packets refer to the data units that are sent out, Rx to the data received. <div align= "center"><img src = "packet-5.png" width = 400px></div>
+	- With "Limit to display filter" checked, the IPv4 tab lists 60 endpoints, with only one of those rows having Rx Packet. That ip is from my own droplet. So that concludes that I have 59 unique clients tried to contact me?
+	- <div align= "center"><img src = "packet-6.png" width = 400px></div>
 #### Lecture
 ##### wireshark
 **tcp**

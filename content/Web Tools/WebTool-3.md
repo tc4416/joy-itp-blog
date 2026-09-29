@@ -2,6 +2,11 @@
 title: "WebTool: Week3"
 draft: false
 ---
+#### Reflection of assignment
+1. People clicked the button in a different way/order then I would do and it turned out it could cause some bug, or for the program to be stalling a little.
+2. Perhaps I could add more instruction or warning when they click it in a wrong way?
+3. Or perhaps I could make the button not-clickable when thery're not supposed to be click?
+
 #### Assignment
 [Dithering Sketch](https://editor.p5js.org/brain/sketches/hU0ANATF-)
 The original code is fairly simple, I left out the other dithering type and only leave bayer because I don't like the way the others look. Things I can let user decide:
