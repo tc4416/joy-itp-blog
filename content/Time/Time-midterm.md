@@ -15,8 +15,8 @@ draft: false
 	<div align = "center">
 <img src = "media/time/time-mt2.png" width = 400px>
 </div>
-	2. Alphabet clock that points to momento mori
-	3. Exit sign?? + frosted acrylic? a lamp?
+2.  Alphabet clock that points to momento mori
+3. Exit sign?? + frosted acrylic? a lamp?
 <div align = "center">
 <img src = "media/time/time-mt3.png" width = 200px>
 <img src = "media/time/time-mt4.png" width = 200px>
