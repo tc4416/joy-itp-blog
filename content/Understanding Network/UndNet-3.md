@@ -54,6 +54,12 @@ Why is there last HTTP request?
 - HTTPS (encrypted HTTP)
 	- packet is enclosed but you cant see what is in the packet
 	- HTTP-> postcard; HTTPS -> envolop
+**UDP vs TCP**
+![[packet-7.png]]
+**Loopback**
+localhost is a loopback
+![[packet-8.png]]
+10-20-35-169
 
 #### Lecture
 ##### wireshark
