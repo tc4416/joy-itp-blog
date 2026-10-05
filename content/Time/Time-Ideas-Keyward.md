@@ -2,6 +2,10 @@
 title: "Time: Ideas / keyword"
 draft: false
 ---
+community-based time keeping
+destroy time
+privilege of knowing time
+
 Syncing Time
 pattern finding
 time keeping is finding pattern
