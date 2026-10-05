@@ -35,6 +35,11 @@ people i should talk to
 	- Jeff- why does Jeff study time?
 	- Allison Parrish
 
+####  Pieces I looked into
+Was mainly looking into how artist talk about there piece: are they criticizing? acknowledge the appeal? questioning? 
+[6 Breaths Per Minute: Everyday Incantations](https://www.milliechen.com/6-breaths-per-minute-everyday-incantations/)
+![[thesis-4.png]]
+
 #### Keywords
 #OedipusEffect #Prophecy
 [Oedipus Effect](https://www.oxfordreference.com/display/10.1093/oi/authority.20110803100246953)
