@@ -2,7 +2,7 @@
 title: "Time: Week 4,"
 draft: false
 ---
-#### Animating Midterm Project
+#### Animating Midterm Project 
 It should rotate full revolution! Fushion only have 100 steps available and it make it look like it is spinning like crazy. So I only animate 90 degrees for now. I wanted to be hour hand
 ![[time-mt8.gif]]
 #### Reading
