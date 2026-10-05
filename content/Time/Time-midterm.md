@@ -2,6 +2,11 @@
 title: "Time: Midterm"
 draft: false
 ---
+#### Animation
+It should rotate full revolution! Fushion only have 100 steps available and it make it look like it is spinning like crazy. So I only animate 90 degrees for now. I wanted to be hour hand
+![[time-mt8.gif]]
+
+
 > Far from making our lives meaningful, eternity would make them meaningless, since our actions would have no purpose.
 
 - Really like this piece by Félix González-Torres.
