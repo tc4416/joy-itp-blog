@@ -10,7 +10,21 @@ draft: false
 <div align = "center">
 <img src = "/media/und/transmission.png" width = 300px>
 </div>
+- Power generation -> power distribution -> individual consumer
+- We have to use all the energy generated or IT WILL BURN
+- Sport events -> electrical demand surge
+- Water to handle power demand surge
+- What type of generation is most efficient timely (go up and down fast)
 
+**Data Center**
+- Different power usage patterm
+	- Cloud Storage -> periodic
+	- Transmit (Netflix) -> consistent
+- "there are no clean cloud" -> [The Atlantic Article](https://www.theatlantic.com/technology/archive/2015/12/there-are-no-clean-clouds/420744/)
+- they generate as little as possible
+- How much they know about customs usage demand?
+	- 
+- 
 [**Bridging the Gap: How Smart Demand Management Can Forestall the AI Energy Crisis**](https://www.goldmansachs.com/what-we-do/goldman-sachs-global-institute/articles/smart-demand-management-can-forestall-the-ai-energy-crisis)
 - This flexibility opens the door to "**curtailment programs**," where datacenters run at full throttle for most of the year but are dialed back for a few hours at a time when the grid is under stress.
 - "The key question for power companies and infrastructure investors then isn’t just whether to build new power, but also how to bridge the gap until that power comes online. The US power grid is built for peak demand, such as the hottest day of summer when air conditioners strain the system, rather than average demand. This strategy means there is excess slack capacity most of the time."
@@ -23,7 +37,7 @@ draft: false
 [**Power measurement & management on Chamelon**](https://blog.chameleoncloud.org/posts/power-measurement-and-management-on-chameleon/)
 - A bunch of commands
 
-
+-----------------------
 **Network Connections and Colocation Facilities** (Oops this is for nextweek...)
 - ISP : Verizon, AT&T...
 - Major networks connect through Internet Exchange Points (IXP)

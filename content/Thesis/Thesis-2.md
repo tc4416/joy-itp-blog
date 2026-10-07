@@ -10,7 +10,7 @@ I'm talking to Audrey this coming Wednesday on how she approach her research dir
 
 #### Figuring Out the Direction 10/03
 For the past two weeks, I was looking through some new media art pieces that are related to my area of interested. But most of the pieces I found are focusing on portraying the practice and I have not yet found any project that resonate with me more than [The Fortune Teller Machine](https://beatrizcortez.com/the-fortune-teller-machine-2/) that I saw at the New Museum. It was nice to look through how artists describe their project though.
-
+![[thesis-5.jpeg]]
 I am interested in fortune telling, divination, superstition, these sorts of things: why we do it, how we do it, etc. But I think just discussing these wouldn't be interesting enough, so I wanna maybe explore the similarities/differences/interchangeable parts between these spiritual practices, and how we use technology in modern days, especially predictive text, AI language models, and algorithms.
 
 All these technologies are trained on past data, the memory of the big digital world, and turn it into some sort of output that we think could be helpful for our "next step," similar to the horoscope or personality test database. (I guess the technologies are for the very near future though? The next word you type, the next reel you will watch, and the next thing you should research?)
@@ -19,6 +19,7 @@ But we all know that horoscopes and tarot readings work only because they are ge
 
 
 #### Random thoughts 09/28
+- Randomness??
 - Language models aren't inteligent
 - Some part of me always feels a little scared about the future. I don't know what is coming, I don't know what I care about might suddenly disappear, I don't know if the time and effort that I put into my work, career, and building something will actually pay off.
 - But some part of me believes I am a lucky person.
