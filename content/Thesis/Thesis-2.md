@@ -6,7 +6,25 @@ draft: false
 I am continuing collecting sources and log them onto my [are.na channel](https://www.are.na/joy-chang/thesis-research-pczxvyayo4a) I found a paper called *Predictive Texts: Modern Mysticism and Algorithmic Divination* by Riley E. Wilson, a PhD candidate at UMich. Judging from the title, it might have some useful information for me. It is super long so I am still working on it!
 
 #### Talking to People
-I'm talking to Audrey this coming Wednesday on how she approach her research direction, will update!
+I talked to Audrey on Wednesday to ask about her process of narrowing down her ideas. The suggestions she gave me were:
+- Text research (Book, articles)
+	- Save anything that you might be interested and start from reading the abstract/summary and find the one that are most related to your topic. find 1-3 and read them in details.
+	- Have a google sheet to keep track on them.
+	- Reach out to Margaret for resources!
+- Images Research
+	- Find key elements that you found that draws your attention the most.
+	- social media
+- Other Thesis
+	- Go to all the thesis you like and find what you like about them (as goal)
+		- for example: strong concept, well-fabricated artifact etc
+- Go outside!
+	- Art exhibitions (really ancient or really modern)
+	- thrift store
+- others
+	- randomness
+	- absurdism
+	- how tech and belief fuse together (against? or co-exist?)
+	- portray un-scientific in a scientific way
 
 #### Figuring Out the Direction 10/03
 For the past two weeks, I was looking through some new media art pieces that are related to my area of interested. But most of the pieces I found are focusing on portraying the practice and I have not yet found any project that resonate with me more than [The Fortune Teller Machine](https://beatrizcortez.com/the-fortune-teller-machine-2/) that I saw at the New Museum. It was nice to look through how artists describe their project though.
