@@ -2,6 +2,14 @@
 title: "Thesis : Research: Explore by Making(WIP)"
 draft: false
 ---
+Artificial Intimacy: Who We Become When We Talk To Machines 
+
+gathereing data set 
+langage  -> grammars
+
+experience? of fortune telling
+
+
 #### More Research
 I am continuing collecting sources and log them onto my [are.na channel](https://www.are.na/joy-chang/thesis-research-pczxvyayo4a) I found a paper called *Predictive Texts: Modern Mysticism and Algorithmic Divination* by Riley E. Wilson, a PhD candidate at UMich. Judging from the title, it might have some useful information for me. It is super long so I am still working on it!
 
@@ -24,7 +32,8 @@ I talked to Audrey on Wednesday to ask about her process of narrowing down her i
 	- randomness
 	- absurdism
 	- how tech and belief fuse together (against? or co-exist?)
-	- portray un-scientific in a scientific way
+	- portray un-scientific in a scientific wayt
+	- techno-sprituality
 
 #### Figuring Out the Direction 10/03
 For the past two weeks, I was looking through some new media art pieces that are related to my area of interested. But most of the pieces I found are focusing on portraying the practice and I have not yet found any project that resonate with me more than [The Fortune Teller Machine](https://beatrizcortez.com/the-fortune-teller-machine-2/) that I saw at the New Museum. It was nice to look through how artists describe their project though.
@@ -47,6 +56,7 @@ But we all know that horoscopes and tarot readings work only because they are ge
 - Are my dreams a story from my past or a prediction of the future?
 - My mom prays to every god she knows
 - THE WILL TO BE
+- Perhaps in the act of asking, you found learn something about yourself? (What you care/want/are afraid of )
 
 people i should talk to
 	- Audrey

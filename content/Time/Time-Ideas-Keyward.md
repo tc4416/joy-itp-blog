@@ -2,6 +2,12 @@
 title: "Time: Ideas / keyword"
 draft: false
 ---
+### the direction of time: where is future for you?
+Up/down
+left right
+
+Spatial time
+
 community-based time keeping
 destroy time
 privilege of knowing time

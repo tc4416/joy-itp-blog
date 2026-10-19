@@ -2,6 +2,11 @@
 title: "WebTool: Week5"
 draft: false
 ---
+#### Midterm Ideation
+browser extension they will kill 1/3 of tab for you
+
+
+
 #### Web API
 - Internet is a series of tube??
 - The tubes -->protocol that support communication

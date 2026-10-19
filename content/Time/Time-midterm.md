@@ -2,6 +2,12 @@
 title: "Time: Midterm"
 draft: false
 ---
+#### hardware 
+Looking into 555 timers, i wanna see if i can try to manipulate the second hand
+![[Pasted image 20261016144046.png]]![[Pasted image 20261016151247.png|348]]![[Pasted image 20261016154259.png|345]]
+![[Pasted image 20261016160535.png]]![[Pasted image 20261016154008.png]]
+![[Pasted image 20261016170802.png]]
+![[Pasted image 20261016170859.png]]
 #### Animation
 It should rotate full revolution! Fushion only have 100 steps available and it make it look like it is spinning like crazy. So I only animate 90 degrees for now. I wanted to be hour hand
 ![[time-mt8.gif]]
