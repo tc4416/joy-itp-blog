@@ -1,5 +1,5 @@
 ---
-title: "Thesis : Research by making -1 (WIP)"
+title: "Thesis : update 3"
 draft: false
 ---
 #### Random Things 

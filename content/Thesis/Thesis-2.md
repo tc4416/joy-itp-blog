@@ -1,5 +1,5 @@
 ---
-title: "Thesis : Research: Explore by Making(WIP)"
+title: "Thesis : Research: update 2"
 draft: false
 ---
 Artificial Intimacy: Who We Become When We Talk To Machines 
