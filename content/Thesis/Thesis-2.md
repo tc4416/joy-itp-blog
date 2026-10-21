@@ -1,5 +1,5 @@
 ---
-title: "Thesis : Research: update 2"
+title: "Thesis : update 2"
 draft: false
 ---
 Artificial Intimacy: Who We Become When We Talk To Machines 
