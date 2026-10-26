@@ -14,9 +14,6 @@ I followed [this tutorial](https://www.instructables.com/How-to-Control-28BYJ-48
 <img src = "media/time/time-mt9.png" width = 400px>
 </div>
 Basic back and forth rotation test:
-<div align = "center">
-<img src = "media/time/time-mt21.MOV" width = 400px>
-</div>
 ![[time-mt21.mov]]Step 2: check if RTC timer work**
 i started by following [this guide](https://learn.adafruit.com/adafruit-ds3231-precision-rtc-breakout/arduino-usage). It was interesting seeing that the day0 in thie RTClib library is Sunday(and i agree first day of the week is sunday!)
 <div align = "center">
@@ -34,9 +31,7 @@ I want to try the hall effects sensor I have (49E) first
 <img src = "media/time/time-mt12.png" width = 200px>
 </div>
 Work perfect!! ***Magnet direction matters!***
-<div align = "center">
-<img src = "media/time/time-mt22.MOV" width = 400px>
-</div>
+
 ![[time-mt22.mov]]
 I drilled a small hole on the back of the arrow and attach the hall effect at the back of the front panel with hot glue:
 ![[time-mt23.mov]]
@@ -45,6 +40,9 @@ With the hall effect sensor in place, I got to combine all the electronics toget
 <img src = "media/time/time-mt24.jpeg" width = 400px>
 </div>
 
+**Final Product**
+![[time-mt28.png]]
+![[time-mt28.mov]]
 The structure and effect of this light box did not turn out to be the way I want. There are a few problems that I want to fix:
 - Originally, I wanted the body to be 3d printed white so that things in side the box are not visible. I tried the diffusion effect with 1.25mm thickness and I like the way it looks. The printers in the shop were having bed adhesive issues so the print kept failing. And that's why I switched to laser cut box body with my leftover material from my last project. It still looks alright, but I might want to try a full 3D printed version. And perhaps matte white acryic?
 <div align = "center">
