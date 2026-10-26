@@ -2,6 +2,10 @@
 title: "Time: Midterm"
 draft: false
 ---
+#### Keywords
+The Direction of Time
+Spatial Orientation of Time
+At first, when I was brainstorming project ideas, I was looking around in my day-to-day life to see if there was something I could replace with a clock. Then I noticed the exit signs everywhere on the floor. And then we discussed the spatial orientation of time in class, like how different cultures place past and future in different orientations to themselves. It kind of just came together. No matter where you place yourself in the stream of time, it is always pointed toward the next moment, and exiting the current one.
 #### Hardware
 I was thinking od using quartz originally, but one problem for my exit sign light box is that it will create a shadow of the black gearbox will be cast onto my box front panel that might look kinda ugly. So i wanted to try using stepper motor to avoid the big shadow, and as a way for me to try out other time-related hardware. For my application, I'm using the basic stepper driver combo and the basic RTC timer:
 - 28BYJ-48
