@@ -33,7 +33,7 @@ I want to try the hall effects sensor I have (49E) first
 Work perfect!! ***Magnet direction matters!***
 
 ![[time-mt22.mov]]
-I drilled a small hole on the back of the arrow and attach the hall effect at the back of the front panel with hot glue:
+I drilled a small hole on the back of the arrow and attach the hall effect at the back of the front panel with hot glue, and figure out the sensor value when the arrow is at 12 o'clock. So every time the device is power up, the stepper motor will start spinning until it hit the position when the sensor is reading the value at 12 o'clock. I had the issue that sometime it does not find the position on the first rotation, so i programmed it so that it rotate until it find the spot.
 ![[time-mt23.mov]]
 With the hall effect sensor in place, I got to combine all the electronics together. I added a Adafruit nOods LED filament into the circuit as my main light source. And enclosed them with the back panel.
 <div align = "center">
@@ -41,7 +41,8 @@ With the hall effect sensor in place, I got to combine all the electronics toget
 </div>
 
 **Final Product**
-![[time-mt28.png]]
+![[time-mt28.png|353]]
+
 ![[time-mt28.mov]]
 The structure and effect of this light box did not turn out to be the way I want. There are a few problems that I want to fix:
 - Originally, I wanted the body to be 3d printed white so that things in side the box are not visible. I tried the diffusion effect with 1.25mm thickness and I like the way it looks. The printers in the shop were having bed adhesive issues so the print kept failing. And that's why I switched to laser cut box body with my leftover material from my last project. It still looks alright, but I might want to try a full 3D printed version. And perhaps matte white acryic?
