@@ -21,4 +21,7 @@ I didn't get to work much on thesis for the past two weeks because I was very ca
 <img src= "/media/thesis/thesis-7.png"  width = 200px>
 </dic>
 	- 
-	- 
+- people turned to ai and divination when you feel the problem is bigger than yourself
+- looking into a mirror that will give you something slightly different 
+- AI, prayer, predictive text, wishing are humanity's attempt to use language to manifest an uncertain future.
+
