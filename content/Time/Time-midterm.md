@@ -112,7 +112,3 @@ Jeff's feedback
 - Stepper need power for holding the position
 	- some choreography for the arrow
 
----------
-feedback stuff
-Aditya: shape of the hardware?
-Luoming:
