@@ -13,7 +13,7 @@ ISOC Oct 27
 - presentation: 
 - send 2- request at the same time
 - 
-![[Pasted image 20261006163522.png]]
+![[mom.png]]
 
 **HTTP Request**
 Next class be there at 4pm

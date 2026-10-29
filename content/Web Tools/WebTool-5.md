@@ -22,7 +22,7 @@ browser extension they will kill 1/3 of tab for you
 	- Ollama API Doc
 - Synchronous vs asynchronous
 	- synchronous -> Do things line by line
-	- Async![[Pasted image 20261006104934.png]]
+	- Async![[webtool5.png]]
 	- Usually get JSON response
 	- curl <-> fetch
 - **API Inspos**
@@ -45,7 +45,7 @@ itp-ml.itp.tsoa.nyu.edu
 - Responsive
 	- Breakpoint (mobile, tablet, desktop)
 	- media query
-	![[Pasted image 20261006100741.png]]
+	![[webtool4.png]]
 	- ```
 	  media(width<=1250px){
 		  #container{

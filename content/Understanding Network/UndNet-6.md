@@ -29,8 +29,18 @@ my server ip: 142.93.249.203
 #### setting up nginx
 Tutorial [link](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 To access the default nginx landing page: `http://your_server_ip`
-![[Pasted image 20261027124331.png]]
-
+![[media/und/http5.png]]
+- To stop server: `sudo systemctl stop nginx`
+- To start server: `sudo systemctl start nginx`
+- To restart server: `sudo systemctl restart nginx`
+- To reload: `sudo systemctl reload nginx`
+- To disable auto configure when boot: `sudo systemctl disable nginx`
+- To reenable auto config at boot: `sudo systemctl enable nginx`
+- **Server Blocks**
+	- Got my domain name from duckdns: joy-undnet.duckdns.org
+	- ![[http5 1.png|267]] ![[http2.png|354]]
+	- ![[Pasted image 20261028102219.png|588]]
+#### Securing Nginx
 #### HTTP analysis
 Im still catching up on materials so am a little behind, will apdate asap!
 
