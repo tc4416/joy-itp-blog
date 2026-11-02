@@ -10,6 +10,7 @@ draft: false
 3. seeking good future through language: wishing and fortune telling chatbots? Finding hope and meaning in machines?
 4. When i think about wish, I think about light, something flowing.
 5. This week I found this paper:[May All Your Wishes Come True:A Study of Wishes and How to Recognize Them](https://pages.cs.wisc.edu/~jerryzhu/pub/wish.pdf)
+6. **In Mandarin, when we talk about the future, we use the verb “to weave.” It’s mostly used when the subject is actively doing something that might contribute to how the future turns out. ->Perhaps something textile?**
 
 #### Research by Making
 ##### Visual / Aesthetic 
@@ -17,9 +18,9 @@ I used my first assignment from my riso printing class as part of the research-b
 ![[Pasted image 20261101215241.png|215]] ![[riso.jpeg|194]]
 I use the laptop as a representation of the computational approach to our day to day life. And a hand with glitter to show that we see the computational outcome as something so meaningful that we value it. The stars show that something magical is happening in the interaction between us and the machine.
 
-##### Eliza![[Screenshot 2026-11-01 at 11.58.39 PM.png]]
+##### Eliza
 [paper in pdf](https://engineering.purdue.edu/~ece495nl/protected/weizenbaum1966.pdf)
-After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-01 at 11.58.39 PM.png]]
+After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-02 at 9.05.59 AM.png]]
 **I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
 
 #### Other reading
