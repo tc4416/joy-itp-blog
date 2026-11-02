@@ -5,7 +5,6 @@ draft: false
 my server ip: 142.93.249.203
 #### Setting up nginx
 [link](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
-
 #### Others
 - Websocket vs HTTP vs MQTT
 	- All are network protocol
@@ -29,6 +28,7 @@ my server ip: 142.93.249.203
 #### setting up nginx
 Tutorial [link](https://www.digitalocean.com/community/tutorials/how-to-install-nginx-on-ubuntu-20-04)
 To access the default nginx landing page: `http://your_server_ip`
+My page : [http://142.93.249.203/](http://142.93.249.203/)
 ![[media/und/http5.png]]
 - To stop server: `sudo systemctl stop nginx`
 - To start server: `sudo systemctl start nginx`
@@ -36,16 +36,72 @@ To access the default nginx landing page: `http://your_server_ip`
 - To reload: `sudo systemctl reload nginx`
 - To disable auto configure when boot: `sudo systemctl disable nginx`
 - To reenable auto config at boot: `sudo systemctl enable nginx`
-- **Server Blocks**
-	- Got my domain name from duckdns: joy-undnet.duckdns.org
+- **Setting upServer Blocks**
+	- Got my domain name from duckdns: [joy-undnet.duckdns.org](http://joy-undnet.duckdns.org/)
 	- ![[http5 1.png|267]] ![[http2.png|354]]
-	- ![[Pasted image 20261028102219.png|588]]
-#### Securing Nginx
+	- ![[server.png|588]]
+
+I am having a hard time figuring it out the repository system on my virtual host, and what are all the files live. So I asked Claude for this. Seems to be somewhat correct? With this visual, things make more sense to me now.
+```
+/
+├── home/
+│   └── joychang/                    ← you land here on login
+│       ├── packetAnalysis_2.pcap
+│       └── packetAnalysis_all.pcap
+│
+├── var/
+│   ├── www/                         ← THE WEBSITES (content)
+│   │   ├── html/
+│   │   │   └── index.nginx-debian.html    ← default page, IP shows this
+│   │   └── joy-undnet.duckdns.org/
+│   │       └── html/
+│   │           └── index.html             ← your page
+│   │
+│   └── log/
+│       └── nginx/                   ← THE LOGS
+│           ├── access.log           ← every request
+│           └── error.log
+│
+└── etc/                             ← ALL CONFIG lives under /etc
+    ├── nginx/
+    │   ├── nginx.conf               ← master config
+    │   ├── sites-available/         ← drafts: every config you've written
+    │   │   ├── default
+    │   │   └── joy-undnet.duckdns.org
+    │   └── sites-enabled/           ← live: aliases to the active ones
+    │       ├── default           ──┐
+    │       └── joy-undnet...     ──┼─→ point back to sites-available
+    │                                ┘
+    ├── letsencrypt/
+    │   └── live/joy-undnet.duckdns.org/
+    │       ├── fullchain.pem        ← your certificate
+    │       └── privkey.pem          ← private key, never share
+    │
+    └── ufw/                         ← firewall rules
+```
+- Checking my directory:
+	![[node2.png|379]]
+- To edit the html page
+`nano /var/www/joy-undnet.duckdns.org/html/index.html`
+- To check `curl https://joy-undnet.duckdns.org`
+![[nginx1.png|189]]![[nginx2.png|236]]
 #### HTTP analysis
-Im still catching up on materials so am a little behind, will apdate asap!
+**Checking access logs:**
+Checking the logs: `ls -lh /var/log/nginx/`
+resource: [NginX documentation](https://docs.nginx.com/waf/logging/access-logs/)
 
-Look into:
-- node.js
-- express.js
-- nginx
 
+------------------
+**Question for Tom**
+- All the command, do i remember all of them??
+- How do i implement theknowledge of network into creative prohect?
+- sreucture of server block and nginx?
+- guide: certbot --nginx -d example.com -d www.example.com
+	- what is WWW??
+- What does enable HTTPS mean exactly?
+- Im lowkey struggling with this class LOL (so many acronym!)
+- Every senstnec to explain something has other words i dont understand!
+	- Node.js is an open-source and cross-platform JavaScript *runtime environment*. 
+		- What is run-time environment!!
+- There are so many web server, why choose nginx?
+- Clarify: TLS certificate registrar
