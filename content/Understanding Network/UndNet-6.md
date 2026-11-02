@@ -93,17 +93,23 @@ resource: [NginX documentation](https://docs.nginx.com/waf/logging/access-logs/)
 
 ------------------
 **Question for Tom**
-- All the command, do i remember all of them??
+- All the command, do i remember all of them?? 
 - How do i implement the knowledge of network into creative project?
-- Im lowkey struggling with this class LOL (so many acronym!)
+- Im lowkey struggling with this class LOL (so many acronym!
+
+--------------
+
 - Every senstnec to explain something has other words i dont understand!
 	- Node.js is an open-source and cross-platform JavaScript *runtime environment*. 
 		- What is run-time environment!!
 
-- Structure of server block and nginx?
+- Structure of **server block**( a section of a server, seperated for security sack) and nginx?
 - What does enable HTTPS mean exactly?
-	- What does certbot do? 
+	- What does certbot do? cerbot: a tool help writing certigication
 	- What is the TLS certificate, do i just do it one time?
-- Node.js & Express.js?
+- Node.js-> javascript that  & Express.js? ->a library that serve http 
 
 - There are so many web server, why choose nginx?
+
+server vs client side js (in the same folder as www, redering is mostly client)
+ 
