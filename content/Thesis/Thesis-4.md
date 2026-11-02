@@ -17,10 +17,10 @@ I used my first assignment from my riso printing class as part of the research-b
 ![[Pasted image 20261101215241.png|215]] ![[riso.jpeg|194]]
 I use the laptop as a representation of the computational approach to our day to day life. And a hand with glitter to show that we see the computational outcome as something so meaningful that we value it. The stars show that something magical is happening in the interaction between us and the machine.
 
-##### Eliza
+##### Eliza![[Screenshot 2026-11-01 at 11.58.39 PM.png]]
 [paper in pdf](https://engineering.purdue.edu/~ece495nl/protected/weizenbaum1966.pdf)
-After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.
-I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)
+After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-01 at 11.58.39 PM.png]]
+**I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
 
 
 
