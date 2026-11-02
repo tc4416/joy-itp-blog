@@ -3,17 +3,18 @@ title: "UndNet: Week7"
 draft: false
 ---
 #### Node.js
-**[What is node.js?](https://nodejs.org/learn/getting-started/introduction-to-nodejs) **
+**What is node.js?**
+[Explain](https://nodejs.org/learn/getting-started/introduction-to-nodejs) 
 - A run-time environemtn
 - allows you to run JavaScript outside of a browser.
 - Installing node.js
 	![[node.png]]
-
+---------------------
 #### Configure Host for Microservices
 > Configure your host for microservices. Experiment with a simple service, like sending the time from the server, or a randomly generated text. Document the API for your service and explain how to access it. In the next assignment, one of your classmates will access your site via your REST API.
 
-
-[**What is REST API??**](https://www.geeksforgeeks.org/node-js/rest-api-introduction/)
+**What is REST API??**
+[Explain](https://www.geeksforgeeks.org/node-js/rest-api-introduction/)
 REST (Representational State Transfer) API 
 - An API that follows REST principles that allows communication between clients and servers using standard HTTP methods.
 - An architectural style for designing APIs that allows different applications to communicate over a network.
@@ -114,7 +115,7 @@ Then I set up the HTML page `nano /var/www/joy-undnet.duckdns.org/html/kanye/ind
 
 ![[kanye3.png|421]]
 
-
+-----------------------------
 #### [Server's Static Files](https://itp.nyu.edu/networks/setting-up-restful-web-services-with-nginx/)
 - Access config file: `sudo nano /etc/nginx/sites-available/yourserver`
 	- adding default code block
