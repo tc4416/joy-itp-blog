@@ -22,23 +22,16 @@ I use the laptop as a representation of the computational approach to our day to
 After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-01 at 11.58.39 PM.png]]
 **I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
 
-
-
-
-
-
-
-
+#### Other reading
 
 Beth Singler, “‘Blessed by the Algorithm’: Theistic Conceptions of Artificial Intelligence in Online Discourse”
 https://pmc.ncbi.nlm.nih.gov/articles/PMC7191134/
 
-
 ------------
 #### Talk with Alanna:
-Modern superstitious: kuai 
+Modern superstitious: kuai kuai
 What would wish through a machine 'good luck' snack
-How to people interprete  -> making meaning out of noice- > how people response things without code
+How to people interpret  -> making meaning out of noice- > how people response things without code
 Magic 8 balls with code-> p5
 What is someone want to feel/ react 
 one experience with code and one without code??
