@@ -22,6 +22,10 @@ I use the laptop as a representation of the computational approach to our day to
 [paper in pdf](https://engineering.purdue.edu/~ece495nl/protected/weizenbaum1966.pdf)
 After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-02 at 9.05.59 AM.png]]
 **I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
+##### Woven Future (p5)
+I found this picture when I start looking into weaving and threading. I am thinking maybe i can generate some sort of pattern that would be related to the text input of the user?
+![[Pasted image 20261102125522.png|221]]
+
 
 #### Other reading
 

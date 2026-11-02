@@ -29,7 +29,51 @@ The first one I want to try is [this Kanye West Quote api](https://kanye.rest/),
 
 I made a directory under root call ~/api, and create a server.js that deal with request data from api. Ran the `node server.js`, then check in another terminal tab with curl to see if I got data back.
 ![[kanye1.png]]
-My server.js:
+My directory now look like this: 
+```
+/
+├── home/
+│   └── joychang/
+│       ├── api/                                  THE PROGRAM
+│       │   ├── server.js                         ← your API code
+│       │   ├── package.json
+│       │   ├── package-lock.json
+│       │   └── node_modules/                     ← express, body-parser
+│       ├── .pm2/                                 ← pm2's files (if you ran it)
+│       ├── packetAnalysis_2.pcap
+│       └── packetAnalysis_all.pcap
+│
+├── var/
+│   ├── www/                                      THE PAGES
+│   │   ├── html/
+│   │   │   └── index.nginx-debian.html           ← default, shown at the IP
+│   │   └── joy-undnet.duckdns.org/
+│   │       └── html/
+│   │           ├── index.html                    ← landing page
+│   │           └── kanye/
+│   │               └── index.html                ← quote page
+│   │
+│   └── log/nginx/                                THE LOGS
+│       ├── access.log
+│       └── error.log
+│
+└── etc/                                          THE CONFIG
+    ├── nginx/
+    │   ├── nginx.conf
+    │   ├── sites-available/
+    │   │   ├── default
+    │   │   └── joy-undnet.duckdns.org            ← location / + location /api
+    │   └── sites-enabled/
+    │       ├── default                  → alias
+    │       └── joy-undnet.duckdns.org   → alias
+    │
+    ├── letsencrypt/live/joy-undnet.duckdns.org/
+    │   ├── fullchain.pem
+    │   └── privkey.pem
+    │
+    └── ufw/                                      ← 22, 80, 443 open; 8080 closed
+```
+So to edit my server.js, i do `nano ~/api/server.js` My server.js:
 ```
 const express = require('express');          // include express
 const bodyParser = require('body-parser');   // include body-parser
@@ -112,8 +156,11 @@ Then I set up the HTML page `nano /var/www/joy-undnet.duckdns.org/html/kanye/ind
 
 
 ```
-
+My pages:
+[main page](https://joy-undnet.duckdns.org/)
+[kanye quote page](https://joy-undnet.duckdns.org/kanye/)
 ![[kanye3.png|421]]
+I learned that if you close the ssh, the node session will be terminated as well. To restart node server, navigate to `~/api` and do `node server.js`. For it to keep running after closing the te
 
 -----------------------------
 #### [Server's Static Files](https://itp.nyu.edu/networks/setting-up-restful-web-services-with-nginx/)

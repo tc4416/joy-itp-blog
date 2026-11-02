@@ -94,14 +94,16 @@ resource: [NginX documentation](https://docs.nginx.com/waf/logging/access-logs/)
 ------------------
 **Question for Tom**
 - All the command, do i remember all of them??
-- How do i implement theknowledge of network into creative prohect?
-- sreucture of server block and nginx?
-- guide: certbot --nginx -d example.com -d www.example.com
-	- what is WWW??
-- What does enable HTTPS mean exactly?
+- How do i implement the knowledge of network into creative project?
 - Im lowkey struggling with this class LOL (so many acronym!)
 - Every senstnec to explain something has other words i dont understand!
 	- Node.js is an open-source and cross-platform JavaScript *runtime environment*. 
 		- What is run-time environment!!
+
+- Structure of server block and nginx?
+- What does enable HTTPS mean exactly?
+	- What does certbot do? 
+	- What is the TLS certificate, do i just do it one time?
+- Node.js & Express.js?
+
 - There are so many web server, why choose nginx?
-- Clarify: TLS certificate registrar
