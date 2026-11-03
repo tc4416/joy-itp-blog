@@ -1,5 +1,5 @@
 ---
-title: "WebTool: Week6 Midterm"
+title: "WebTool: Week6"
 draft: false
 ---
 #### Main Issue 

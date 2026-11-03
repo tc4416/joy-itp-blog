@@ -1,5 +1,5 @@
 ---
-title: "WebTool: Midterm"
+title: "WebTool: Week7+8 Midterm"
 draft: false
 ---
 #### Original Proposal
