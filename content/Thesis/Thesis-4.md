@@ -15,17 +15,19 @@ draft: false
 #### Research by Making
 ##### Visual / Aesthetic 
 I used my first assignment from my riso printing class as part of the research-by-making process. I was thinking about how I would want the vibe of my project to feel, and this is what I ended up with:
-![[Pasted image 20261101215241.png|215]] ![[riso.jpeg|194]]
+![[thesis-9.png|215]] ![[riso.jpeg|194]]
 I use the laptop as a representation of the computational approach to our day to day life. And a hand with glitter to show that we see the computational outcome as something so meaningful that we value it. The stars show that something magical is happening in the interaction between us and the machine.
 
 ##### Eliza
 [paper in pdf](https://engineering.purdue.edu/~ece495nl/protected/weizenbaum1966.pdf)
-After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[Screenshot 2026-11-02 at 9.05.59 AM.png]]
+After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[thesis-12.png]]
 **I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
 ##### Woven Future (p5)
 I found this picture when I start looking into weaving and threading. I am thinking maybe i can generate some sort of pattern that would be related to the text input of the user?
-![[Pasted image 20261102125522.png|221]]
-
+![[thesis-10.png|221]]
+To explore this approach, I tried putting together a p5 sketch to mimic the weaving effect with a string being a pattern. What I did is transferring the string into binary code, and if it is `1` the red line will be threaded in front tif the blue base. i think i dont like the way it looks.
+[Sketch Link](https://editor.p5js.org/tc4416/sketches/dsqSrP_3HS)
+![[Pasted image 20261103001604.png]]
 
 #### Other reading
 
