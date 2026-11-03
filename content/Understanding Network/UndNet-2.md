@@ -1,5 +1,5 @@
 ---
-title: "UndNet: Week2, Traceroute"
+title: "UndNet: Week 2, Traceroute"
 draft: false
 ---
 #### Lecture

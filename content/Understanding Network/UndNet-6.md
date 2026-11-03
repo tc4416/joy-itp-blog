@@ -1,5 +1,5 @@
 ---
-title: "UndNet: Week6"
+title: "UndNet: Week 6"
 draft: false
 ---
 my server ip: 142.93.249.203

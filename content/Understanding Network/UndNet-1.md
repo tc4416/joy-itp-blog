@@ -1,5 +1,5 @@
 ---
-title: "UndNet: Week1"
+title: "UndNet: Week 1"
 ---
 ### Lecture
 #### [Network Definition and Dynamics](https://itp.nyu.edu/classes/undnet/geography-of-the-internet/)

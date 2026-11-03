@@ -1,5 +1,5 @@
 ---
-title: "WebTool: Week7+8 Midterm"
+title: "WebTool: Week 7/8 Midterm"
 draft: false
 ---
 #### Original Proposal
@@ -40,7 +40,8 @@ I made a bullet point style interface. When users are ready to put what they wro
     - For example, if there is just one bullet point note saying “I need to look into xxx,” the AI model will return something like “Here are the resources you can look into about xxx.” This shouldn’t be hard to fix, though.
 - Add a function that allows pasting screenshots
 #### User Testing
-![[webtool.mov]]![[webtool2.mov]]
+![[webtool.mov]]
+![[webtool2.mov]]
 #### AI Agent
 I got a lot of help from AI agents for this assignment because of the time constraint I had (which was totally my fault haha). The following is a snippet of the Claude Code prompt history. The parts highlighted in red were my prompts. I was jumping between Claude in the web browser and Claude Code in VS Code, and unfortunately I couldn’t retrieve part of the conversation. For this assignment, I set up the initial HTML, CSS, and JavaScript, and coded the very simple layout by myself at the beginning. I figured out the text area setup and the basic array setup to log the input. I got the most help from AI on 1) setting up the project tabs + rendering the logged info when switching between tabs, 2) styling the website, and 3) setting up the API (I provided the class demo and told it to use only what I’ve learned).
 ![[Webtool Midterm Claude Convo.pdf]]
