@@ -18,4 +18,4 @@ How I corrently blog my is that I will have multiple windows open on my desktop
 </figure>
 </div>
 
-![[midterm-screenshot.png|472]]
+
