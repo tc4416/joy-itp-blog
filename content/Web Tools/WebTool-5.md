@@ -29,15 +29,10 @@ browser extension they will kill 1/3 of tab for you
 	- Exhaustingacrowd /  Berlin
 	- 
 
-
-
-
 --------------------
 https://datathroughdesign.com/
 itp-ml.itp.tsoa.nyu.edu
 	Ollama
-
-
 
 #### Flexbox, more
 - Grid vs Flexbox

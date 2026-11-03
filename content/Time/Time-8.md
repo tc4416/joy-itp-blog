@@ -1,4 +1,4 @@
 ---
-title: "Time: Week 8,"
+title: "Time: Week 8, Seeing Time"
 draft: false
 ---
