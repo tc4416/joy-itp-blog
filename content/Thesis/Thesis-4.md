@@ -4,6 +4,7 @@ draft: false
 ---
 #### Narrow Down Topic: 
 ***How people attempt to find hope and meaning in machines?***
+***What if machine is taking part of forming how future will look like for us?***
 #### Random Things 
 1. "meaning is made by the receiver"
 2. i DONT want it to be witchy  (no candles, tarot layouts, purple velvet, dark rooms vibe)
@@ -21,12 +22,12 @@ I use the laptop as a representation of the computational approach to our day to
 ##### Eliza
 [paper in pdf](https://engineering.purdue.edu/~ece495nl/protected/weizenbaum1966.pdf)
 After talking to Anshula, I decided to try playing with Eliza code. I got the code from the Github [Eliza](https://github.com/wadetb/eliza) page. From my understanding, Eliza's personality is coded in the doctor.txt, where it stored the possible input format and the response it will give. So I started by duplicating doctor.txt and modify it. I used this as a chance to understand how Eliza was programmed and tested out how the process of modifying it would look like. I made this Eliza to be more responsive to hope/wish and more emotional conversation.![[thesis-12.png]]
-**I put it into a simple HTML at [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
+**<span style="color:rgb(192, 0, 0)">I put it into a simple HTML at</span> [here](https://tc4416.github.io/thesis/Eliza/eliza-wish/)**
 ##### Woven Future (p5)
 I found this picture when I start looking into weaving and threading. I am thinking maybe i can generate some sort of pattern that would be related to the text input of the user?
 ![[thesis-10.png|221]]
 To explore this approach, I tried putting together a p5 sketch to mimic the weaving effect with a string being a pattern. What I did is transferring the string into binary code, and if it is `1` the red line will be threaded in front tif the blue base. i think i dont like the way it looks.
-[Sketch Link](https://editor.p5js.org/tc4416/sketches/dsqSrP_3HS)
+<span style="color:rgb(192, 0, 0)"><b>p5 link:</b></span> [Sketch Link](https://editor.p5js.org/tc4416/sketches/dsqSrP_3HS)
 ![[Pasted image 20261103001604.png]]
 
 #### Other reading
