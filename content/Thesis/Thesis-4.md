@@ -12,6 +12,13 @@ draft: false
 4. When i think about wish, I think about light, something flowing.
 5. This week I found this paper:[May All Your Wishes Come True:A Study of Wishes and How to Recognize Them](https://pages.cs.wisc.edu/~jerryzhu/pub/wish.pdf)
 6. **In Mandarin, when we talk about the future, we use the verb “to weave.” It’s mostly used when the subject is actively doing something that might contribute to how the future turns out. ->Perhaps something textile?**
+7. [Self-fulfilling prophecy](https://en.wikipedia.org/wiki/Self-fulfilling_prophecy)
+8. [hyperstition](https://en.wikipedia.org/wiki/Hyperstition)
+9. <span style="color:rgb(192, 0, 0)"> Love this reading </span>[The LLMentalist Effect: how chat-based Large Language Models replicate the mechanisms of a psychic’s con](https://softwarecrisis.dev/letters/llmentalist/)
+	1. [Forer effect](https://www.skepdic.com/forer.html)
+		> LLMs are not brains and do not meaningfully share any of the mechanisms that animals or people use to reason or think.
+10. “Contemporary computing increasingly behaves like an oracle”: it tells us what to watch, what to buy, what to consume, what to become. There is a lot of discussion online arguing that algorithm culture is making people lose their individuality. The content we consume is some sort of prediction of what the machine thinks we will like. How do we rebel? I am thinking: what if the machine can be honest? It shows us the possibilities, and we choose our own path.
+11. On an individual level, I don’t think the future is something we can fully control. It is a combination of our own effort, randomness, and statistically determined fate.
 
 #### Research by Making
 ##### Visual / Aesthetic 
