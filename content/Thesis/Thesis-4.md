@@ -19,6 +19,7 @@ draft: false
 		> LLMs are not brains and do not meaningfully share any of the mechanisms that animals or people use to reason or think.
 10. “Contemporary computing increasingly behaves like an oracle”: it tells us what to watch, what to buy, what to consume, what to become. There is a lot of discussion online arguing that algorithm culture is making people lose their individuality. The content we consume is some sort of prediction of what the machine thinks we will like. How do we rebel? I am thinking: what if the machine can be honest? It shows us the possibilities, and we choose our own path.
 11. On an individual level, I don’t think the future is something we can fully control. It is a combination of our own effort, randomness, and statistically determined fate.
+12. <span style="color:rgb(192, 0, 0)">Google map ?</span>
 
 #### Research by Making
 ##### Visual / Aesthetic 
