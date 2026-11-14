@@ -47,7 +47,7 @@ With the hall effect sensor in place, I got to combine all the electronics toget
 **Final Product**
 <div align = "center">
 <img src = "media/time/time-mt28.png" width = 400px>
-<video width="400" controls> <source src="media/time/time-mt28.mov" ></video>
+<img src = "media/time/time-mt28.gif" width = 400px>
 </div>
 
 The structure and effect of this light box did not turn out the way I wanted. There are a few problems that I want to fix:
@@ -56,6 +56,7 @@ The structure and effect of this light box did not turn out the way I wanted. Th
 <img src = "media/time/time-mt25.jpeg" width = 200px>
 <img src = "media/time/time-mt26.jpeg" width = 200px>
 </div>
+
 - I want to seal/hide the electronics
 - Fix the light diffusion effect.
 
@@ -88,7 +89,7 @@ It should rotate a full revolution! Fusion only has 100 steps available, and it 
 </div>
 3. Threaded Clock
 	Unravel as time passes
-	<div align = "center">
+		<div align = "center">
 <img src = "media/time/time-mt2.png" width = 400px>
 </div>
 
