@@ -13,15 +13,15 @@ To practice and get more undrestanding on API & HTTP request & server in general
 For my kanye api, i am using route api/data, for this one, I will be setting it up with api/agify. Edit my server.js.(server.js)
 
 <span style="color:rgb(192, 0, 0)">I am a bit confused about the bodyParser in the sample code. What is it for and it seems like it is never used after being declared? I am taking it away from my code for now</span>
-![[Pasted image 20261110001056.png|470]]
+![[api1.png|470]]
 
 Add function to server.js. And `server.get(proxyLocation+'/agify'+getAgify)`. 
-![[Pasted image 20261110001604.png]]
+![[api2.png]]
 Restart server with `pm2 restart server`. And test it with curl.
-![[Pasted image 20261110094223.png]]
+![[api4.png]]
 Make the directory for index.html for agify, var/www/joy-undnet.duckdns.org/html/agify.
 <span style="color:rgb(192, 0, 0)">A bit confused about the most front forward-slash</span>
-![[Pasted image 20261110095923.png]]
+![[api5.png]]
 ```
 <!DOCTYPE html>
 <html>

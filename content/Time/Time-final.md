@@ -2,7 +2,7 @@
 title: "Time: Final"
 draft: false
 ---
-![[Pasted image 20261113105415.png]]
+![[time-final-1.png]]
 #### Ideation
 - A measuring tape that measure the space through the unit of time
 - "syncing time"

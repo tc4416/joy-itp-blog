@@ -13,11 +13,11 @@ draft: false
 `map funciton in javasctipt`
 #### Next.js
 -> open terminal in vs code
-![[Pasted image 20261103105047.png|385]]![[Pasted image 20261103105223.png|162]]
+![[webtool7.png|385]]![[webtool8.png|162]]
 - only neeed to worry about things in public/src
 - to run `npm run dev`
 - got to local host
-![[Pasted image 20261103112917.png|400]]
+![[webtool-9.png|400]]
 - `npm run dev`
 #### Coding Agent
 

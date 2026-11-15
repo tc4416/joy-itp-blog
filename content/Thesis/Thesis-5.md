@@ -15,4 +15,4 @@ draft: false
 
 
 #### Thinking about the physical form
-![[Pasted image 20261113221214.png|312]]
+![[thesis-13.png|312]]
