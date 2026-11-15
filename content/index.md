@@ -12,4 +12,5 @@ b.
 P" `8.
     `8.
      `8
+
 ![[monster-5-dithered.png]]

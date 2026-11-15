@@ -2,6 +2,12 @@
 title: "Time: Midterm"
 draft: false
 ---
+<div align = "center">
+<img src = "media/time/time-mt29.jpg" width = 200px>
+<img src = "media/time/time-mt30.jpg" width = 200px>
+<img src = "media/time/time-mt31.jpg" width = 200px>
+<img src = "media/time/time-mt32.jpg" width = 200px>
+</div>
 #### Keywords
 - The Direction of Time
 - Spatial Orientation of Time
@@ -37,7 +43,7 @@ I want to try the hall effects sensor I have (49E) first
 Work perfect!!  *Magnet direction matters!** 
 
 ![[time-mt22.mov]]
-I drilled a small hole on the back of the arrow and attached the Hall effect sensor to the back of the front panel with hot glue, and figured out the sensor value when the arrow is at 12 o'clock. So every time the device is powered up, the stepper motor will start spinning until it hits the position when the sensor is reading the value at 12 o'clock. I had the issue that sometimes it does not find the position on the first rotation, so I programmed it so that it rotates until it finds the spot.
+I drilled a small hole in the back of the arrow and attached the Hall effect sensor to the back of the front panel with hot glue, and figured out the sensor value when the arrow is at 12 o'clock. So every time the device is powered up, the stepper motor will start spinning until it hits the position when the sensor is reading the value at 12 o'clock. I had the issue that sometimes it does not find the position on the first rotation, so I programmed it so that it rotates until it finds the spot.
 ![[time-mt23.mov]]
 With the hall effect sensor in place, I got to combine all the electronics together. I added an Adafruit nOods LED filament into the circuit as my main light source. And enclosed them with the back panel.
 <div align = "center">
@@ -102,5 +108,6 @@ It should rotate a full revolution! Fusion only has 100 steps available, and it 
 <img src = "media/time/time-mt6.png" width = 200px>
 <img src = "media/time/time-mt7.png" width = 200px>
 </div>
-- Quartz gearbox maybe not a good idea bc need to drive the arrow + need a battery
-- Arduino + Stepper Motor + Driver + RTC module
+
+6. Quartz gearbox maybe not a good idea bc need to drive the arrow + need a battery
+7. Arduino + Stepper Motor + Driver + RTC module
