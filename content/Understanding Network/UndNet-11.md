@@ -7,6 +7,7 @@ Jasmine's: I left messages on her service
 <div align = "center">
 <img src = "media/und/undnet7.png" width = 400px>
 </div>
+
 #### Microcontroller
 **Finding Mac Address**
 I only have a spare nano ESP32 on hand at this moment so I am using it as my device. I was having issue uploading my sketch to the board and it was driving me crazy lol. But after following the answer from the Arduino forum( connecting B1 and GN)
