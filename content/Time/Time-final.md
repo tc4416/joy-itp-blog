@@ -11,7 +11,8 @@ I have always wanted to make a physical clock that only shows time when people a
 <div align = "center">
 <img src = "media/time/time-final.gif" width = 400px>
 </div>
-When I was doing research I realized Aidan and Young Min from previous Time class has already done something similar. [blue clock](https://studioexpanse.com/time). And the way they'd do it is almost the same as how I would imagine, with a web came or distance sensor with a linear actuator to move the clock face close or far to the front panel. I am not sure if it is a good idea to do this if someone has something similar?
+
+When I was doing research I realized Aidan and Young Min from previous Time class has already done something similar.  [blue clock](https://studioexpanse.com/time). And the way they'd do it is almost the same as how I would imagine, with a web came or distance sensor with a linear actuator to move the clock face close or far to the front panel. I am not sure if it is a good idea to do this if someone has something similar?
 
 But if I were to work on this, here is how my piece would be different:
 - It worked the opposite as Aidan & Young Min's piece. It shows time clearly only when people is not looking at it.
@@ -25,7 +26,12 @@ But if I were to work on this, here is how my piece would be different:
 <img src = "media/time/time-final3.jpeg" width = 400px>
 </div>
 
-
+- play with the hands shapes
+- way to blur things? differen materials? stacking materials? -> focus eleme
+ns
+- filtered effect
+- project time 
+- 
 #### Ideation
 - A measuring tape that measure the space through the unit of time
 - "syncing time"
