@@ -20,6 +20,8 @@ Add function to server.js. And `server.get(proxyLocation+'/agify'+getAgify)`.
 Restart server with `pm2 restart server`. And test it with curl.
 ![[api4.png]]
 Make the directory for index.html for agify, var/www/joy-undnet.duckdns.org/html/agify.
+![[undnet6.png]]
+
 <span style="color:rgb(192, 0, 0)">A bit confused about the most front forward-slash</span>
 ![[api5.png]]
 ```

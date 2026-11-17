@@ -2,10 +2,10 @@
 title: "Time: Final"
 draft: false
 ---
-
 <div align = "center">
 <img src = "media/time/time-final-1.png" width = 400px>
 </div>
+
 #### Continue of my TouchDesigner project
 I have always wanted to make a physical clock that only shows time when people are not looking at it. I got to try this out using TouchDesigner during summer and made this pice. For my final, I am thinking make the physical version of this happen. I was thinking using frosted acrylic (as i always do lol), and have the clock face moving close and far away from the acrylic to create blurry effect.
 <div align = "center">
