@@ -9,6 +9,10 @@ draft: false
 - MQTT doesn’t care what you put in each message, you can format your messages to match whatever end use you need.
 ![[Pasted image 20261124134050.png|265]]![[Pasted image 20261124134421.png|338]]
 
+**ArduinoMqttClient.ino example**
+For the dafult topic, i was able to to recieve the message through the broker.
+![[Pasted image 20261124141642.png|415]]
+
 #### Quick Talk
 - no lots of text
 - get the point across with images instead of text
